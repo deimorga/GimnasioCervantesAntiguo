@@ -1,0 +1,127 @@
+name: Audit Legacy PHP (A+B)
+on:
+  workflow_dispatch: {}
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: System deps (graphviz for phpmetrics)
+        run: sudo apt-get update && sudo apt-get install -y graphviz
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+
+      - name: Install tools (global)
+        run: |
+          composer global require phpmetrics/phpmetrics phpstan/phpstan
+          curl -LSs https://phar.phpunit.de/phploc.phar -o /usr/local/bin/phploc
+          chmod +x /usr/local/bin/phploc
+
+      - name: Run A) Metrics (PHPMetrics / PHPLoc / PHPStan)
+        run: |
+          mkdir -p _audit
+          ~/.composer/vendor/bin/phpmetrics --report-html=_audit/phpmetrics .
+          phploc . > _audit/phploc.txt || true
+          ~/.composer/vendor/bin/phpstan analyse -l 0 . --memory-limit=1G > _audit/phpstan.txt || true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Write B) scan_legacy_php.py
+        shell: bash
+        run: |
+          cat > scan_legacy_php.py << 'PY'
+          #!/usr/bin/env python3
+          import os, re, json, csv
+          ROOT = os.getcwd()
+          OUTDIR = os.path.join(ROOT, "_audit")
+          os.makedirs(OUTDIR, exist_ok=True)
+          IGNORE_DIRS = {'.git','_audit','vendor','node_modules','.idea','.vscode','dist','build','tmp'}
+          php_fn  = re.compile(r'\bfunction\s+([a-zA-Z_]\w*)\s*\(')
+          php_cls = re.compile(r'\bclass\s+([a-zA-Z_]\w*)\b')
+          inc_req = re.compile(r'\b(include|include_once|require|require_once)\s*\(?[\'"]([^\'"]+\.php)[\'"]\)?')
+          get_pat = re.compile(r'\$_GET\s*\[\s*[\'"]([^\'"]+)[\'"]\s*\]')
+          post_pat= re.compile(r'\$_POST\s*\[\s*[\'"]([^\'"]+)[\'"]\s*\]')
+          req_pat = re.compile(r'\$_REQUEST\s*\[\s*[\'"]([^\'"]+)[\'"]\s*\]')
+          ajax_js = re.compile(r'\$.ajax\s*\(\s*\{\s*[^}]*url\s*:\s*[\'"]([^\'"]+\.php)[\'"]', re.S|re.I)
+          select_tab = re.compile(r'\bSELECT\b.+?\bFROM\b\s+`?([a-zA-Z0-9_]+)`?', re.I|re.S)
+          insert_tab = re.compile(r'\bINSERT\s+INTO\b\s+`?([a-zA-Z0-9_]+)`?', re.I)
+          update_tab = re.compile(r'\bUPDATE\b\s+`?([a-zA-Z0-9_]+)`?', re.I)
+          delete_tab = re.compile(r'\bDELETE\s+FROM\b\s+`?([a-zA-Z0-9_]+)`?', re.I)
+          summary = {"files_scanned":0,"php_files":0,"js_files":0,"classes":[],"functions":[],
+                     "includes":[],"possible_endpoints":set(),
+                     "request_params":{"GET":set(),"POST":set(),"REQUEST":set()},
+                     "uses":{"mysql":False,"mysqli":False,"pdo":False}}
+          sql_rows, endpoint_rows = [], []
+          def scan_file(path):
+              rel = os.path.relpath(path, ROOT)
+              with open(path,'r',errors='ignore') as f:
+                  try: txt = f.read()
+                  except: return
+              lines = txt.splitlines()
+              if path.endswith('.php'):
+                  summary["php_files"] += 1
+                  summary["classes"].extend(php_cls.findall(txt))
+                  summary["functions"].extend(php_fn.findall(txt))
+                  for m in inc_req.finditer(txt):
+                      summary["includes"].append({"type":m.group(1),"target":m.group(2),"file":rel})
+                      summary["possible_endpoints"].add(m.group(2))
+                      endpoint_rows.append(["include/require", m.group(2), rel, ""])
+                  for m in get_pat.finditer(txt): summary["request_params"]["GET"].add(m.group(1))
+                  for m in post_pat.finditer(txt): summary["request_params"]["POST"].add(m.group(1))
+                  for m in req_pat.finditer(txt): summary["request_params"]["REQUEST"].add(m.group(1))
+                  for i,l in enumerate(lines,1):
+                      for m in select_tab.finditer(l): sql_rows.append(["SELECT", m.group(1), rel, i])
+                      for m in insert_tab.finditer(l): sql_rows.append(["INSERT", m.group(1), rel, i])
+                      for m in update_tab.finditer(l): sql_rows.append(["UPDATE", m.group(1), rel, i])
+                      for m in delete_tab.finditer(l): sql_rows.append(["DELETE", m.group(1), rel, i])
+                  if re.search(r'\bmysql_\w+\s*\(', txt): summary["uses"]["mysql"] = True
+                  if re.search(r'\bmysqli_\w+\s*\(', txt): summary["uses"]["mysqli"] = True
+                  if re.search(r'\bnew\s+PDO\s*\(', txt): summary["uses"]["pdo"] = True
+              if path.endswith('.js'):
+                  summary["js_files"] += 1
+                  for m in ajax_js.finditer(txt):
+                      url = m.group(1)
+                      summary["possible_endpoints"].add(url)
+                      endpoint_rows.append(["ajax", url, rel, ""])
+          for root, dirs, files in os.walk(ROOT):
+              dirs[:] = [d for d in dirs if d not in IGNORE_DIRS]
+              for fn in files:
+                  if fn.startswith('.'): continue
+                  p = os.path.join(root, fn)
+                  if any(seg in p for seg in ('/_audit/','/.git/','/vendor/','/node_modules/')): continue
+                  summary["files_scanned"] += 1
+                  if fn.endswith(('.php','.js')): scan_file(p)
+          import csv
+          with open(os.path.join(OUTDIR,'endpoints.csv'),'w',newline='') as f:
+              w = csv.writer(f); w.writerow(['source','endpoint_or_target','file','line'])
+              for r in endpoint_rows: w.writerow(r)
+              s = sorted(summary["possible_endpoints"])
+              for e in s:
+                  if e.endswith('.php'):
+                      w.writerow(['detected','.php file',e,''])
+          with open(os.path.join(OUTDIR,'sql_tables.csv'),'w',newline='') as f:
+              w = csv.writer(f); w.writerow(['op','table','file','line'])
+              for r in sql_rows: w.writerow(r)
+          summary["possible_endpoints"] = sorted(summary["possible_endpoints"])
+          summary["request_params"] = {k: sorted(v) for k,v in summary["request_params"].items()}
+          with open(os.path.join(OUTDIR,'summary.json'),'w') as f:
+              json.dump(summary,f,indent=2,ensure_ascii=False)
+          print("OK. Revisa la carpeta: _audit")
+          PY
+
+      - name: Run B) discovery
+        run: python3 ./scan_legacy_php.py
+
+      - name: Upload artifacts (_audit)
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit
+          path: _audit/**
