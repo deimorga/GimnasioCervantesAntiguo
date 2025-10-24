@@ -2,3 +2,6 @@
 **/._*
 *.rar
 *.rar
+*.rar
+.DS_Store
+**/._*
