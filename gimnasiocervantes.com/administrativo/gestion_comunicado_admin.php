@@ -1,0 +1,44 @@
+<?
+session_start();
+
+include_once("../funciones/funciones.php");
+include_once("../funciones/conexion.php");
+
+if($_SESSION["user_id"]=="" || $_SESSION["user_id"]==NULL){
+	echo "<script>window.location.href='cerrar_session.php'</script>";
+}
+
+if($_POST['actualiza_comunicado']==1){
+	$guarda_comunicado=setComunicado($_POST['asunto'],$_POST['contenido'],$_SESSION['user_id']);
+	if($guarda_comunicado){
+		$alumno=getUsuariosAdmin();
+			for($i=0;$i<count($alumno);$i++){
+				if($_POST[$alumno[$i]['identificacion_usuario']]){
+					$asigna=setComunicadoAdmin($alumno[$i]['identificacion_usuario'],$guarda_comunicado);
+					if($asigna){
+					}else{
+						echo "<script>alert('No asigno al alumno...');</script>";
+					}
+				}
+			}
+		echo "<script>alert('Los datos se guardaron correctamente...');</script>";
+	}else{
+		echo "<script>alert('No se guardaron correctamente los datos...');</script>";
+	}
+}
+
+?>
+<table width="100%" cellspacing=0 border="0">
+  <tr>
+    <td><div id="concepto"><? include_once("form_comunicado_admin.php");?></div></td>
+  </tr>
+  <tr>
+    <td valign="top"><div id="list_concepto"><? include_once("filtro_administrativos.php");?></div></td>
+  </tr>
+</table>
+        <table width="600px" cellpadding=5 cellspacing=0 border="0">
+			<tr>
+				<td align="center"><input name="actualiza_comunicado" type="hidden" value="0" />
+                <input class="button_send" name="" id="ingreso_circular" type="button" value="GUARDAR DATOS" onClick="valida_nuevo_comunicado_admin(this.form);"></td>
+			</tr>
+        </table>

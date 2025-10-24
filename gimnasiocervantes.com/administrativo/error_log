@@ -1,0 +1,8 @@
+[15-Nov-2017 13:40:12 UTC] PHP Warning:  Missing argument 4 for setFactura(), called in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/recibo_pago_otros.php on line 14 and defined in /home/artmsoft/public_html/gimnasiocervantes.com/funciones/funciones.php on line 2184
+[27-Nov-2017 19:18:01 UTC] PHP Warning:  Missing argument 4 for setFactura(), called in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/recibo_pago_otros.php on line 14 and defined in /home/artmsoft/public_html/gimnasiocervantes.com/funciones/funciones.php on line 2195
+[21-Dec-2017 23:07:57 UTC] PHP Warning:  Illegal string offset 'id_consecutivo' in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/datos_alumno.php on line 125
+[21-Dec-2017 23:07:57 UTC] PHP Warning:  Illegal string offset 'consecutivo' in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/datos_alumno.php on line 125
+[23-Jan-2018 16:56:32 UTC] PHP Warning:  Illegal string offset 'id_consecutivo' in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/datos_alumno.php on line 125
+[23-Jan-2018 16:56:32 UTC] PHP Warning:  Illegal string offset 'consecutivo' in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/datos_alumno.php on line 125
+[24-Jan-2018 12:32:13 UTC] PHP Warning:  Illegal string offset 'id_consecutivo' in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/datos_alumno.php on line 125
+[24-Jan-2018 12:32:13 UTC] PHP Warning:  Illegal string offset 'consecutivo' in /home/artmsoft/public_html/gimnasiocervantes.com/administrativo/datos_alumno.php on line 125

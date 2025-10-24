@@ -1,0 +1,467 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">id_enlace</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">url_enlace</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">id_modulo</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">nombre_enlace</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nuevo_estudiante.php?nuevo=1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Registro de alumnos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_alumnos.php?pago=1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Registro de un pago</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_alumnos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de alumnos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nueva_noticia.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Nueva noticia</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_noticias.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Borrar noticias</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_contactos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Tramitar contactos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">7</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nuevo_grupo.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Nuevo grupo</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_grupo.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado grupo</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nueva_asignatura.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Nueva asignatura</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_asignatura.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado asignaturas</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">11</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nuevo_profesor.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Nuevo profesor</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">12</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_profesores.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado profesores</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">13</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/asignatura_grupo.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Tramite Carga Academica</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">14</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/asignaturas_profesor.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado Asignaturas</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">15</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/filtro_grados.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Inscribir grupo de alumnos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">16</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/registro_gasto.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Registro de gastos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">17</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/filtro_gastos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado gastos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">18</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/filtro_pagos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado pagos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">19</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/gestion_usuario.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">6</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Control de usuarios</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">20</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/gestion_comunicado_admin.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Gestion comunicado Administrativo</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">21</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_comunicados.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Lista Comunicados Administrativos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">22</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_asignatura_grupo.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado Carga Academica</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">24</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_planes_gestores.php?nueva_bu</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado planes gestores</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">25</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/combinar_pg.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Combinar componentes plan gestor</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">26</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_definitivas.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de calificaciones</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">27</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_definitivas.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de calificaciones</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">28</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nueva_circular.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Nueva Circular</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">29</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_desempenios_bajos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de desempeños bajos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">30</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_desempenios_bajos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de desempeños bajos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">31</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/filtro_pagos_vs_gastos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado Pagos VS Gastos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">32</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/filtro_calificar.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Corregir calificacion </Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">33</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_planes_gestores_logros.php?n</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">4</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Reporte logros - plan gestor</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">34</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_dc.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">5</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Casos especiales</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">36</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_grupo.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado grupo </Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">37</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_asignatura.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado asignaturas</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">38</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_profesores.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado profesores </Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">39</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/gestion_comunicado_admin.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Gestion comunicado Administrativo</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">40</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_comunicados.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Lista Comunicados Administrativos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">41</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_asignatura_grupo.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado Carga Academica</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">42</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_planes_gestores.php?nueva_bu</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado planes gestores </Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">43</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_definitivas.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de calificaciones</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">44</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/filtro_desempenios_bajos.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de desempeños bajos </Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">45</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_planes_gestores_logros.php?n</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Reporte logros - plan gestor</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">48</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./profesor/guias_2.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">8</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Consolidado de Guias</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">49</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/cancelar_factura.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">2</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Cancelar Factura</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">50</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nvo_pin.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Vender PIN</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">51</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_alumnos_pin.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Listado de Pines</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">52</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aplicacion/listado_galerias.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">3</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Galerias</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">53</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./cerrar_session.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Cerrar Sesion</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">54</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/cambio_clave.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Cambiar Contraseña</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">55</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/nuevo_estudiante_aula.php?alumno_</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Informacion del Alumno</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">56</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/listado_pagos_admin.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Historial de pagos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">57</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./usuario/list_plan_gestor.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Plan de Estudio</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">58</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./usuario/comentarios_profesor.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Comentarios Profesor</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">59</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Temario de Clase</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">60</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Talleres y Actividades</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">61</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Evaluaciones en Linea</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">62</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">9</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Centro de Guias</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">46</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./cerrar_session.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Cerrar Sesion</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">23</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./principal_profesor.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Volver</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">67</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/gestionar_clase.php?nuevo=1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Preparar Clase</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">68</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/listado_clases.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Mis Clases</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">69</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/gestionar_taller.php?nuevo=1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Preparar Taller</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">70</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/listado_talleres.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Mis Talleres</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">71</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/gestionar_guia.php?nuevo=1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Preparar Guia</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">72</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/listado_guias.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Mis Guias</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">73</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/gestionar_evaluacion.php?nuevo=1</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Preparar Evaluacion</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">74</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./aula/listado_evaluaciones.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Mis Evaluaciones</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">75</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Comunicados Alumnos</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">76</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">./administrativo/list_comunicados.php</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Mis Comunicados</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="Number">77</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="Number">10</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Biblioteca y Temario</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>

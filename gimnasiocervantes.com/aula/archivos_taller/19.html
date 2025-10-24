@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<!-- saved from url=(0094)http://contenidosparaaprender.mineducacion.gov.co/G_7/M/M_G07_U01_L03/M_G07_U01_L03_03_04.html -->
+<html lang="es" class="" style="-webkit-user-select: none;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>M_G06_U05_L01_03_01</title>
+    <link rel="stylesheet" type="text/css" href="./division yoloooooo_files/sg.css">
+    <link rel="stylesheet" type="text/css" href="./division yoloooooo_files/normalize.css">
+    <link rel="stylesheet" type="text/css" href="./division yoloooooo_files/GGC.css">
+    <link rel="stylesheet" type="text/css" href="./division yoloooooo_files/M_GGC.css">
+    <link rel="stylesheet" type="text/css" href="./division yoloooooo_files/M_G07_U01_L03_03_04.css">
+    <script type="text/javascript" src="./division yoloooooo_files/require.js"></script>
+    <script type="text/javascript" src="./division yoloooooo_files/main_1.0.js"></script>
+    <script>
+        function init() {
+            sugerencia();
+
+            function sugerencia() {
+                var sugerencia = $('.sugerencia');
+                var pagekey = $('[data-sg-id="item-page"]:visible').data('sgKey');
+                /*if (pagekey != 5 && pagekey != 6 && pagekey != 7 && pagekey != 11 && pagekey != 12 && pagekey != 13 && pagekey != 18 && pagekey != 19 && pagekey != 4 && pagekey != 8 ) {
+                    if ( pagekey == 10) {
+                        $(sugerencia).html(' Arrastre la respuesta correcta hacia la casilla vacía');
+                    } else if (pagekey == 16 || pagekey == 17) {
+                        $(sugerencia).html('Hacer click <img src="img/click/click_guide4.png" class="imgSugerencia" /> en los cuadros blancos para indicar la respuesta');
+                    } else if (pagekey == 14 || pagekey == 15) {
+                        $(sugerencia).html('Arrastre hacia las casillas vacía de la izquierda el orden de la operación');
+                    } else {
+                        $(sugerencia).html('Hacer click <img src="img/click/click_guide4.png" class="imgSugerencia" /> para ver el contenido');
+                    }
+                } else {
+                    $(sugerencia).html('');
+                }*/
+            }
+
+            $('.navArrow').click(function () {
+                sugerencia();
+            });
+
+
+            
+            
+            var lstRespuestas = ["-9","-2","-4","-3","8","-12","-96","-40","-40","conmutativa|Conmutativa","-54","-54","160","160","Asociativa|asociativa",
+                                "-16","-16"]; //25
+            
+
+           
+            require(["jquery-alphanum", "inputKitComp", "matched"], function(alphanum, inputKit, matched) {
+               
+                $('.input').keyup(function() {
+                    var elemento = $(this);
+                    var valor = $(this).val();
+                    $(elemento).removeClass('cajaCorrecta cajaIncorrecta');
+                    if ($.trim(valor) != '' && valor.length > 0) {
+                        var numero = $(elemento).data('sgInput') - 1;
+                        if (inputKit.check([lstRespuestas[numero]], [valor])) {
+                            $(elemento).addClass('cajaCorrecta');
+                            sg.sound('success');
+
+                        } else {
+                            $(elemento).addClass('cajaIncorrecta');
+                            /*sg.sound('error');*/
+                        }
+
+                    }
+                });
+                
+  
+
+            });
+            
+             sg.setDraggable('.movimientoDrag', {
+
+                success: function () {
+                    sg.sound('success');
+                    var elemento = $(this);
+                    var e = elemento.data('sgItem');
+
+                    // var e = elemento.attr('id');
+                    switch (e) {
+                    case 10:
+                        $('.textoCentrado1').css('font-size', '29px');
+                        break;
+                    }
+
+                },
+                fail: function () {
+                    sg.sound('error');
+                    var elemento = $(this);
+                    var posicion = {
+                        'left': '0px',
+                        'top': '0px'
+                    };
+                    elemento.animate(posicion, {
+                        queue: false,
+                        duration: 600
+                    });
+                }
+            });
+
+            //Generar signos aleatorios
+               function makeid() {
+                   var text = "";
+                   var possible = "-+";
+                   for (var i = 0; i < 1; i++)
+                       text += possible.charAt(Math.floor(Math.random() * possible.length));
+                   return text;
+               }
+            
+            $('.btnSignos').click(function(){
+              var sig1= makeid();
+              var sig2= makeid();
+              $('#inputSigno1').val(""+sig1+"");
+              $('#inputSigno2').val(""+sig2+"");
+        
+            });
+            
+              
+            
+            $('.clickValidarAct3').click(function(){
+                
+
+              var sig1 = $('#inputSigno1').val();
+              var sig2 = $('#inputSigno2').val();
+              var res = $('#inputRespuesta').val();
+           
+                
+                if (sig1 == "+" && sig2 == "+")
+                {
+                   if(res == "+"){sg.sound('success');}
+                    else {sg.sound('error');}
+                }
+
+                if (sig1 == "-" && sig2 == "-")
+                {
+                   if(res== "+"){sg.sound('success');}
+                    else {sg.sound('error');}
+                }
+
+                 if (sig1 == "+" && sig2 == "-")
+                {
+                   if(res== "-"){sg.sound('success');}
+                    else {sg.sound('error');}
+                }
+
+                if (sig1 == "-" && sig2 == "+")
+                {
+                   if(res== "-"){sg.sound('success');}
+                    else {sg.sound('error');}
+                }
+
+
+            });
+           
+
+        }
+    </script>
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="./division yoloooooo_files/jquery-1.11.1.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util" src="./division yoloooooo_files/tj.utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui" src="./division yoloooooo_files/jquery-ui-1.11.2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg" src="./division yoloooooo_files/sg-1.2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-easytabs" src="./division yoloooooo_files/jquery.easytabs.custom.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-fancybox" src="./division yoloooooo_files/jquery.fancybox.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg-attr-defaultPack" src="./division yoloooooo_files/sg.attr.defaultPack-1.0.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg-tag-defaultPack" src="./division yoloooooo_files/sg.tag.defaultPack-1.1.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg-attr-draggable" src="./division yoloooooo_files/sg.attr.draggable-1.2.js"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="inputKitComp" src="./division yoloooooo_files/inputKitComp.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-alphanum" src="./division yoloooooo_files/jquery.alphanum.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="flip" src="./division yoloooooo_files/jquery.flip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matched" src="./division yoloooooo_files/matched_v1.0.js"></script></head>
+
+<body style="overflow: hidden; cursor: auto; background-color: rgba(0, 0, 0, 0);">
+    <div id="stage" data-sg-scalemode="showall" data-sg-id="stage" style="position: absolute; transform: scale(0.74); transform-origin: 0px 0px 0px; left: 200px; top: 0px;"><div data-sg-id="content" style="min-height: 800px; visibility: visible;">
+        <div id="content" class="ggc_contenedorGeneral" style="visibility: visible;">
+            <header class="ggc_header_M">
+                <div class="ggc_icon ggc_icon_M_contenido"></div>
+                <h1>Multiplicación de números enteros</h1>
+            </header>
+            <!-- INCIO CONTENIDO (CONTENT) -->
+            <div class="ggc_contenido ggc_contenido_M" style="min-height: 678px; background-color: rgb(248, 241, 247);">
+                <div style="height:40px;background-color:#FEFEFE;">
+                    <div class="actividad">Actividad 4</div>
+                    <div class="sugerencia" style="padding-right: 8%;"> 
+                    </div>
+                </div>
+                <div class="ajuste"></div>
+                <div class="lineaFondo" style="background-color:#662482;margin-top: -1%;"></div>
+                <!-- INCIO PAGE 1-->
+                <div data-sg-id="item-page" data-sg-key="1" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div class="imgF1 optimizeImage"></div>
+                    
+                    <div class="cntMovimientos">
+                         <div class="lstDrags table" style="position: absolute;top: -240%;left: 83%;">
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop1" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer; z-index: 100; left: -483.501px; top: 120.58px;">
+                                            <div class="textoCentrado dragImg1 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop4" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer; z-index: 101; left: -267.501px; top: 168.811px;">
+                                            <div class="textoCentrado dragImg2 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop2" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer; z-index: 103; left: -268.041px; top: -51.3284px;">
+                                            <div class="textoCentrado dragImg3 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop3" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer; z-index: 104; left: -483.797px; top: -2.92208px;">
+                                            <div class="textoCentrado dragImg4 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                        </div>
+                        
+                         <ul class="lstDrops ">
+                                  <li style="position:absolute; top: -132.8%;left: 23.8%;">
+                                    <div class="movimientoDrop" id="movimientoDrop1"></div>
+                                </li>
+                              <li style="position:absolute; top: -132.8%;left: 50.8%;">
+                                    <div class="movimientoDrop" id="movimientoDrop2"></div>
+                                </li>
+                              <li style="position:absolute; top: -22.8%;left: 23.8%;">
+                                    <div class="movimientoDrop" id="movimientoDrop3"></div>
+                                </li>
+                              <li style="position:absolute; top: -22.8%;left: 50.8%;">
+                                    <div class="movimientoDrop" id="movimientoDrop4"></div>
+                                </li>
+                        </ul>
+                        
+                        
+                    
+                   </div>
+           
+                </div>
+                <!-- FIN PAGE 1 -->
+                
+                <!-- INCIO PAGE 2-->
+                <div data-sg-id="item-page" data-sg-key="2" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                     <div class="videoContenedor2">
+                        <video width="800" height="450" style="width: 800px;height: 450px;" controls="">
+                            <source src="video/AN_M_G07_U01_L03_03_10.ogv" type="video/ogg">
+                            <source src="video/AN_M_G07_U01_L03_03_10.mp4" type="video/mp4"> No se reproduce el video? <a href="http://contenidosparaaprender.mineducacion.gov.co/G_7/M/M_G07_U01_L03/video/AN_M_G07_U01_L03_03_10.mp4">Descargar</a>. </video>
+                    </div>
+                   
+                </div>
+                <!-- FIN PAGE 2 -->
+                
+                <!-- INCIO PAGE 3-->
+                <div data-sg-id="item-page" data-sg-key="3" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    
+                    <div class="imgF2 optimizeImage"></div>
+                    
+                    <input type="text" id="inputSigno1" class="input caja1Signo" value="" style="" disabled="">
+                    <input type="text" id="inputSigno2" class="input caja2Signo" value="" style="" disabled="">
+                    
+                    <div class="divCajaRespuesta">
+                        <input type="text" id="inputRespuesta" class="cajaRespuesta" value="" style="">
+                    </div>
+                    
+                    <div class="btnSignos"></div>
+
+                    <div class="clickValidarAct3"></div>
+                   
+                </div>
+                <!-- FIN PAGE 3 -->
+
+                <!-- INCIO PAGE 4-->
+                <div data-sg-id="item-page" data-sg-key="4" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                      <div class="imgF3 optimizeImage"></div>
+                    
+                    <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="1" style="">
+                    <input type="text" id="inputN1" class="input input2 cajaCorrecta" data-sg-input="2" style="">
+                    <input type="text" id="inputN1" class="input input3 cajaCorrecta" data-sg-input="3" style="">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="4" style="">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="5" style="">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="6" style="">
+                    <input type="text" id="inputN1" class="input input7 cajaCorrecta" data-sg-input="7" style="">
+
+                  
+                </div>
+                <!-- FIN PAGE 4 -->
+
+                <!-- INCIO PAGE 5-->
+                <div data-sg-id="item-page" data-sg-key="5" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    
+                      <div class="imgF4 optimizeImage"></div>
+                    
+                     <input type="text" id="inputN1" class="input input8 cajaCorrecta" data-sg-input="8" style="">
+                     <input type="text" id="inputN1" class="input input9 cajaCorrecta" data-sg-input="9" style="">
+                    <input type="text" id="inputN1" class="input input10 cajaCorrecta" data-sg-input="10" style="">
+                    
+                </div>
+                <!-- FIN PAGE 5 -->
+
+                
+                <!-- INCIO PAGE 6-->
+                <div data-sg-id="item-page" data-sg-key="6" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    
+                    
+                    <div class="imgF5 optimizeImage"></div>
+                    
+                     <input type="text" id="inputN1" class="input input11 cajaCorrecta" data-sg-input="11" style="">
+                     <input type="text" id="inputN1" class="input input12 cajaCorrecta" data-sg-input="12" style="">
+                  
+                    
+                </div>
+                <!-- FIN PAGE 6 -->
+
+                
+                <!-- INICIO PAGE 7-->
+                <div data-sg-id="item-page" data-sg-key="7" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    <div>
+                       
+                    <div class="imgF6 optimizeImage"></div>
+                    
+                     <input type="text" id="inputN1" class="input input13 cajaCorrecta" data-sg-input="13" style="">
+                     <input type="text" id="inputN1" class="input input14 cajaCorrecta" data-sg-input="14" style="">
+                     <input type="text" id="inputN1" class="input input15 cajaCorrecta" data-sg-input="15" style="">
+                        
+                        
+                        
+                    </div>
+                </div>
+                <!-- FIN PAGE 7-->
+
+                <!-- INICIO PAGE 8-->
+                <div data-sg-id="item-page" data-sg-key="8" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    <div>
+                        
+                    <div class="imgF7 optimizeImage"></div>
+                    
+                     <input type="text" id="inputN1" class="input input16 cajaCorrecta" data-sg-input="16" style="">
+                     <input type="text" id="inputN1" class="input input17 cajaCorrecta" data-sg-input="17" style="">
+                    
+                    </div>
+                </div>
+                <!-- FIN PAGE 8-->
+
+                <!-- INCIO PAGE 9-->
+                <div data-sg-id="item-page" data-sg-key="9" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    
+                     <div class="videoContenedor2">
+                        <video width="800" height="450" style="width: 800px;height: 450px;" controls="">
+                            <source src="video/AN_M_G07_U01_L03_03_12.ogg" type="video/ogg">
+                            <source src="video/AN_M_G07_U01_L03_03_12.mp4" type="video/mp4"> No se reproduce el video? <a href="http://contenidosparaaprender.mineducacion.gov.co/G_7/M/M_G07_U01_L03/video/AN_M_G07_U01_L03_03_12.mp4">Descargar</a>. </video>
+                    </div>
+                    
+                    
+                </div>
+                <!-- FIN PAGE 9 -->
+                
+                 <!-- INCIO PAGE 10-->
+                <div data-sg-id="item-page" data-sg-key="10" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    
+                     <div>
+                        
+                    <div class="imgF8 optimizeImage"></div>
+                    
+                         <div class="cntMovimientos">
+                         <div class="lstDrags table2" style="position: absolute;top: -14%;left: 4.5%;">
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop5" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer;">
+                                            <div class="textoCentrado dragImg5 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop6" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer;">
+                                            <div class="textoCentrado dragImg6 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop7" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer; z-index: 106; left: -51.5733px; top: -141.037px;">
+                                            <div class="textoCentrado dragImg7 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop8" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer; z-index: 105; left: 53.2571px; top: -227.217px;">
+                                            <div class="textoCentrado dragImg8 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                             
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop9" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer;">
+                                            <div class="textoCentrado dragImg9 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                             
+                                    <div style="" class="celda">
+                                        <div class="movimientoDrag ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop10" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer;">
+                                            <div class="textoCentrado dragImg10 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                        </div>
+                        
+                         <ul class="lstDrops ">
+                                  <li style="position:absolute; top:-121.2%;left:12.5%;">
+                                    <div class="movimientoDrop movimientoDrop2" id="movimientoDrop8"></div>
+                                </li>
+                              <li style="position:absolute; top: -121.2%;left: 46.5%;">
+                                    <div class="movimientoDrop movimientoDrop2" id="movimientoDrop7"></div>
+                                </li>
+                              
+                        </ul>
+                        
+                        
+                    
+                   </div>
+                     
+                    
+                    </div>
+                     
+                    
+                    
+                </div>
+                <!-- FIN PAGE 10 -->
+
+               <!-- INICIO PAGE 11-->
+                <div data-sg-id="item-page" data-sg-key="11" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    <div>
+                        
+                    <div class="imgF9 optimizeImage"></div>
+                    
+                    <div class="cntMovimientos">
+                         <div class="lstDrags table3" style="position: absolute;top: -69%;left: -14.5%;">
+                                    <div style="" class="celda3">
+                                        <div class="movimientoDrag movimientoDrag2 ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop11" style="overflow: hidden; cursor: pointer;" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false">
+                                            <div class="textoCentrado dragImg11 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda3">
+                                        <div class="movimientoDrag movimientoDrag2 ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop12" style="overflow: hidden; cursor: pointer;" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false">
+                                            <div class="textoCentrado dragImg12 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda3">
+                                        <div class="movimientoDrag movimientoDrag2 ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop13" style="overflow: hidden; cursor: pointer; z-index: 107; left: 214.606px; top: -184.127px;" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false">
+                                            <div class="textoCentrado dragImg13 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                                    <div style="" class="celda3">
+                                        <div class="movimientoDrag movimientoDrag2 ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop14" style="overflow: hidden; cursor: pointer;" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false">
+                                            <div class="textoCentrado dragImg14 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                             
+                                    <div style="" class="celda3">
+                                        <div class="movimientoDrag movimientoDrag2 ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop15" style="overflow: hidden; cursor: pointer;" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false">
+                                            <div class="textoCentrado dragImg15 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                             
+                                    <div style="" class="celda3">
+                                        <div class="movimientoDrag movimientoDrag2 ui-draggable ui-draggable-handle" data-sg-drop-selector="#movimientoDrop16" data-sg-revert="false" data-sg-drop-fail="" data-sg-drop-success="" data-sg-clone="false" style="overflow: hidden; cursor: pointer;">
+                                            <div class="textoCentrado dragImg16 optimizeImage"></div>
+                                        </div>
+                                    </div>
+                        </div>
+                        
+                         <ul class="lstDrops ">
+                                  <li style="position:absolute; top:-161.2%;left:12.5%;">
+                                    <div class="movimientoDrop movimientoDrop2" style="width:427px;" id="movimientoDrop13"></div>
+                                </li>
+                              
+                              
+                        </ul>
+                    
+                    </div>
+                       
+                    </div>    
+                </div>
+                <!-- FIN PAGE 11-->
+                    
+                <!-- INICIO PAGE 12-->
+                <div data-sg-id="item-page" data-sg-key="12" data-sg-group="1" data-sg-sound="success-low" style="display: block;">
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                
+                    
+                    <div>
+                        
+                         <div class="imgF10 optimizeImage"></div>
+                        
+                         <div data-sg-id="item-show" class="contentItemShow" data-sg-hide="true" data-sg-sound="success-low" style="top: 449px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3 ocultarAct4" style=""></div>
+                                  
+                                    <div class="click1Act3" style="top: -284px;    height: 76px;    left: -34px;    width: 320px;"></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                            </div>
+                        
+                        
+                        <div data-sg-id="item-show" class="contentItemShow" data-sg-hide="true" data-sg-sound="success-low" style="top: 449px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3 ocultarAct4" style="left: 294px;"></div>
+                                  
+                                    <div class="click2Act3" style="top: -284px;    height: 76px;    left: 290px;    width: 310px;"></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                            </div>
+                        
+                        
+                        <div data-sg-id="item-show" class="contentItemShow" data-sg-hide="true" data-sg-sound="success-low" style="top: 449px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3 ocultarAct4" style="left:610px;"></div>
+                                  
+                                    <div class="click3Act3" style="top: -284px;    height: 76px;    left: 605px;    width: 323px;"></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                            </div>
+                        
+                        
+                    
+                    </div>
+                     
+                    
+                    
+                </div>
+                <!-- FIN PAGE 12-->
+
+
+
+            </div>
+            <!-- FIN CONTENIDO (CONTENT) -->
+        </div>
+    </div></div>
+
+
+</body></html>

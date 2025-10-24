@@ -1,0 +1,129 @@
+img	{border: 0;}
+ 
+/*	Algunos elementos que tendr?n las mismas caracter?sticas en toda la p?gina	*/
+#central {
+	width: 600px;
+	float: left;
+	padding: 0;
+	}
+
+
+/*	Desarrollo de la galeria de imagenes	*/
+
+li .min	{
+	background: url(img/galeria.png);
+	width: 75px;
+	height: 64px;
+	padding: 6px 20px 20px 7px;
+	}
+	
+li .min2	{
+	background: url(img/galeria.png);
+	width: 75px;
+	height: 64px;
+	padding: 6px 20px 20px 7px;
+	}
+	
+li .min3	{
+	background: url(img/galeria.png);
+	width: 75px;
+	height: 64px;
+	padding: 6px 20px 20px 7px;
+	}
+	
+#borde	{
+	width: 500px;
+	height: 350px;
+	position: absolute;
+	top: 550px;	/* Provoca la separacion del borde superior */
+	left: auto;	/* Separa la imagen grande de la pequea */
+	margin-left:250px;
+	background: url(img/galeria.png);
+	}
+
+#borde2	{
+	width: 500px;
+	height: 350px;
+	position: absolute;
+	top: 1050px;	/* Provoca la separacion del borde superior */
+	left: auto;	/* Separa la imagen grande de la pequea */
+	margin-left:250px;
+	background: url(img/galeria.png);
+	}
+
+#borde3	{
+	width: 500px;
+	height: 350px;
+	position: absolute;
+	top: 1550px;	/* Provoca la separacion del borde superior */
+	left: auto;	/* Separa la imagen grande de la pequea */
+	margin-left:250px;
+	background: url(img/galeria.png);
+	}
+
+#galeria {
+	background:none;
+	height:400px;
+	width:130px;
+	overflow:auto;
+
+	}
+
+.cat	{
+	list-style-type: none;
+	margin: 0 0 25px 10px; /* Eliminacion de vieta en IE6 */
+	padding: 0px; /* Eliminacion de vieta en IE6 */
+	float:left;
+	}
+
+#cat1 {
+	background:none;
+	height:400px;
+	width:130px;
+	overflow:auto;
+
+	}
+	
+.max{
+	visibility: hidden;
+	position: absolute;
+	top: 500px;	/* Provoca la separacion del borde superior */
+  	margin-left: 180px !important;
+	}
+	
+a:hover .max	{
+	visibility: visible;
+	}
+a:focus .max	{
+	visibility: visible;
+	}
+
+
+.max2{
+	visibility: hidden;
+	position: absolute;
+	top: 970px;	/* Provoca la separacion del borde superior */
+  margin-left: 180px;
+	}
+	
+a:hover .max2	{
+	visibility: visible;
+	}
+a:focus .max2	{
+	visibility: visible;
+	}
+
+
+.max3{
+	visibility: hidden;
+	position: absolute;
+	top: 1440px;	/* Provoca la separacion del borde superior */
+  margin-left: 180px;
+	}
+	
+a:hover .max3	{
+	visibility: visible;
+	}
+a:focus .max3	{
+	visibility: visible;
+	}

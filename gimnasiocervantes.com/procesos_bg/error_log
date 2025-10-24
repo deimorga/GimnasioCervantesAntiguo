@@ -1,0 +1,12 @@
+[23-Nov-2017 20:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getNoRecupera() in /home/artmsoft/public_html/gimnasiocervantes.com/procesos_bg/genere_promedio_definitiva.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/procesos_bg/genere_promedio_definitiva.php on line 57
+[23-Nov-2017 20:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getNoRecupera() in /home/artmsoft/public_html/gimnasiocervantes.com/procesos_bg/genere_promedio_definitiva.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/procesos_bg/genere_promedio_definitiva.php on line 57
+[23-Nov-2017 20:38:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getNoRecupera() in /home/artmsoft/public_html/gimnasiocervantes.com/procesos_bg/genere_promedio_definitiva.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/procesos_bg/genere_promedio_definitiva.php on line 57

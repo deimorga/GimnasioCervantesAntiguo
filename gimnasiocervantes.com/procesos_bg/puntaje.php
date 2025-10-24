@@ -1,0 +1,54 @@
+<?php
+ini_set("memory_limit","256M");
+include("../funciones/conexion.php");
+include("../funciones/funciones.php");
+
+$periodo=$_REQUEST['periodo'];
+$anio=$_REQUEST['anio'];
+$ini=$_REQUEST['ini'];
+$fin=$_REQUEST['fin'];
+//die("********************************".$anio);
+for($c=$ini;$c<=$fin;$c++){//ciclo para grupos
+	$alumnos_curso=getAlumnosGrupo($c);
+	
+	$cont_alumnos=count($alumnos_curso);
+	for($a=0;$a<$cont_alumnos;$a++){//alumnos de c/grupo
+			
+		$puntaje_alumno=0;
+		$alumno=getAlumnoBoletinId($alumnos_curso[$a]['identificacion']);
+		$asignaturas=getAsignaturasGrupoPuntaje($alumno['id_grupo'],$periodo);
+		
+		$cont_asignatura=count($asignaturas);
+		for($i=0;$i<$cont_asignatura;$i++){//Asignaturas vistas por el elumno
+			$calificacion=getCalificacionAsignatura($asignaturas[$i]['id_asignatura'],$alumnos_curso[$a]['identificacion'],$periodo);
+			$puntaje_alumno=$puntaje_alumno+$calificacion['calificacion_asignatura'];
+			$dato=seleccionaPlanGestor("tbl_logro", $asignaturas[$i]['id_plan_gestor']);
+			$cont_dato=count($dato);
+			for($j=0;$j<$cont_dato;$j++){
+				$calificacion_logro=getCalificacionLogro($dato[$j]['id_logro'],$alumno['identificacion']);
+				if($calificacion_logro['desempenio_logro']=="DB"){
+					$db=setDesempenioBasico($alumnos_curso[$a]['identificacion'],$asignaturas[$i]['id_asignatura'],$dato[$j]['id_logro']);
+				}
+			}
+		}
+		
+		$total_puntos=$cont_asignatura*5;
+		$actualiza_puntaje=setPuntajeAlumno($alumnos_curso[$a]['identificacion'],$puntaje_alumno,$total_puntos,$periodo,$anio);
+		if($actualiza_puntaje){
+			echo "ok ".$alumnos_curso[$a]['identificacion']."<br>";
+		}else{
+			echo "ERROR AL GUARDAR EL PUNTAJE DE ".$alumnos_curso[$a]['identificacion']." siendo este: ".$puntaje_alumno."<br>";
+		}
+	}
+	$alumnos_puesto=getAlumnosGrupoPuesto($c,$periodo,$anio);
+	for($y=0;$y<count($alumnos_puesto);$y++){
+		$puesto=$y+1;
+		$actualiza_puesto=updAlumnoPuesto($alumnos_puesto[$y]['id_puntaje_alumno'],$puesto,$anio,$periodo);
+		if($actualiza_puesto){
+			echo "ok <br>";
+		}else{
+			echo "ERROR AL GUARDAR EL PUESTO DE ".$alumnos_puesto[$y]['identificacion']." siendo este: ".$puesto."<br>";
+		}
+	}
+}
+?>

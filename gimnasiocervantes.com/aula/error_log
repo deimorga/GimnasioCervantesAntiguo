@@ -1,0 +1,2 @@
+[05-Dec-2017 22:38:47 UTC] PHP Warning:  Missing argument 1 for getElementosWeb(), called in /home/artmsoft/public_html/gimnasiocervantes.com/aula/listado_elementos_web.php on line 20 and defined in /home/artmsoft/public_html/gimnasiocervantes.com/funciones/funciones_aula.php on line 361
+[05-Dec-2017 22:44:45 UTC] PHP Warning:  Missing argument 1 for getElementosWeb(), called in /home/artmsoft/public_html/gimnasiocervantes.com/aula/listado_elementos_web.php on line 20 and defined in /home/artmsoft/public_html/gimnasiocervantes.com/funciones/funciones_aula.php on line 361

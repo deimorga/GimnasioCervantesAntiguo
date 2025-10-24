@@ -1,0 +1,264 @@
+[16-Nov-2017 14:56:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Nov-2017 15:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Nov-2017 17:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[17-Nov-2017 12:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[17-Nov-2017 13:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[17-Nov-2017 21:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[18-Nov-2017 16:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[18-Nov-2017 16:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[18-Nov-2017 16:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[18-Nov-2017 16:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[18-Nov-2017 16:30:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[18-Nov-2017 16:30:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[19-Nov-2017 01:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[19-Nov-2017 01:39:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[19-Nov-2017 02:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[20-Nov-2017 18:03:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[21-Nov-2017 14:46:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[22-Nov-2017 03:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[23-Nov-2017 00:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[26-Nov-2017 19:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Nov-2017 01:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Nov-2017 01:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Nov-2017 01:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Nov-2017 03:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Nov-2017 16:44:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Nov-2017 16:45:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[29-Nov-2017 19:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[30-Nov-2017 02:38:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[30-Nov-2017 02:39:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[02-Dec-2017 21:27:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[02-Dec-2017 21:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 01:06:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 01:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 01:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 01:09:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 01:09:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 01:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 02:42:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 03:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 03:26:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 03:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Dec-2017 03:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[10-Dec-2017 02:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[05-Jan-2018 20:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Jan-2018 03:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[12-Jan-2018 02:03:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Jan-2018 20:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Jan-2018 20:43:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Jan-2018 23:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Jan-2018 23:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[16-Jan-2018 23:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[17-Jan-2018 10:52:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[17-Jan-2018 20:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[28-Jan-2018 22:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[29-Jan-2018 14:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[29-Jan-2018 14:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[29-Jan-2018 14:34:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[29-Jan-2018 14:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[31-Jan-2018 18:33:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[31-Jan-2018 18:33:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[31-Jan-2018 18:33:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[31-Jan-2018 18:38:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[09-Feb-2018 04:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[13-Feb-2018 21:56:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[13-Feb-2018 21:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37
+[13-Feb-2018 21:56:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function eregi() in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/artmsoft/public_html/gimnasiocervantes.com/aplicacion/galeriaNivoProyecto.php on line 37

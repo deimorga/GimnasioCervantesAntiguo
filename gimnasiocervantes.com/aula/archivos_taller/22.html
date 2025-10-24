@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<!-- saved from url=(0094)http://contenidosparaaprender.mineducacion.gov.co/G_7/M/M_G07_U01_L03/M_G07_U01_L03_03_05.html -->
+<html lang="es" class="" style="-webkit-user-select: none;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>M_G06_U05_L01_03_01</title>
+    <link rel="stylesheet" type="text/css" href="./multiplicacion yoloooooo_files/sg.css">
+    <link rel="stylesheet" type="text/css" href="./multiplicacion yoloooooo_files/normalize.css">
+    <link rel="stylesheet" type="text/css" href="./multiplicacion yoloooooo_files/GGC.css">
+    <link rel="stylesheet" type="text/css" href="./multiplicacion yoloooooo_files/M_GGC.css">
+    <link rel="stylesheet" type="text/css" href="./multiplicacion yoloooooo_files/M_G07_U01_L03_03_05.css">
+    <script type="text/javascript" src="./multiplicacion yoloooooo_files/require.js"></script>
+    <script type="text/javascript" src="./multiplicacion yoloooooo_files/main_1.0.js"></script>
+    <script>
+        function init() {
+            sugerencia();
+
+            function sugerencia() {
+                var sugerencia = $('.sugerencia');
+                var pagekey = $('[data-sg-id="item-page"]:visible').data('sgKey');
+                /*if (pagekey != 5 && pagekey != 6 && pagekey != 7 && pagekey != 11 && pagekey != 12 && pagekey != 13 && pagekey != 18 && pagekey != 19 && pagekey != 4 && pagekey != 8 ) {
+                    if ( pagekey == 10) {
+                        $(sugerencia).html(' Arrastre la respuesta correcta hacia la casilla vacía');
+                    } else if (pagekey == 16 || pagekey == 17) {
+                        $(sugerencia).html('Hacer click <img src="img/click/click_guide4.png" class="imgSugerencia" /> en los cuadros blancos para indicar la respuesta');
+                    } else if (pagekey == 14 || pagekey == 15) {
+                        $(sugerencia).html('Arrastre hacia las casillas vacía de la izquierda el orden de la operación');
+                    } else {
+                        $(sugerencia).html('Hacer click <img src="img/click/click_guide4.png" class="imgSugerencia" /> para ver el contenido');
+                    }
+                } else {
+                    $(sugerencia).html('');
+                }*/
+            }
+
+            $('.navArrow').click(function () {
+                sugerencia();
+            });
+
+
+            
+            
+            var lstRespuestas = ["25","5","48","11","56","4","45","9","145","5","-","+","-","+","-","-5","No|no","-14","5","-29"
+                                ,"Si|si","No|no","Si|si","Si|si","No|no","Si|si","Si|si","No|no","Si|si","Si|si","Si|si"
+                                ,"-/-=+","+/+=+","+/-=-","-/+=-","+/-=-","+/+=+","-/-=+","+/+=+","+/-=-","-/+=-","+/-=-","5","No|no","-3",
+                                "-15","No|no","96","10","No|no","-29","-80","-250"]; //25
+            
+
+           
+            require(["jquery-alphanum", "inputKitComp", "matched"], function(alphanum, inputKit, matched) {
+               
+                $('.input').keyup(function() {
+                    var elemento = $(this);
+                    var valor = $(this).val();
+                    $(elemento).removeClass('cajaCorrecta cajaIncorrecta');
+                    if ($.trim(valor) != '' && valor.length > 0) {
+                        var numero = $(elemento).data('sgInput') - 1;
+                        if (inputKit.check([lstRespuestas[numero]], [valor])) {
+                            $(elemento).addClass('cajaCorrecta');
+                            sg.sound('success');
+
+                        } else {
+                            $(elemento).addClass('cajaIncorrecta');
+                            /*sg.sound('error');*/
+                        }
+
+                    }
+                });
+                
+  
+
+            });
+            
+             sg.setDraggable('.movimientoDrag', {
+
+                success: function () {
+                    sg.sound('success');
+                    var elemento = $(this);
+                    var e = elemento.data('sgItem');
+
+                    // var e = elemento.attr('id');
+                    switch (e) {
+                    case 10:
+                        $('.textoCentrado1').css('font-size', '29px');
+                        break;
+                    }
+
+                },
+                fail: function () {
+                    sg.sound('error');
+                    var elemento = $(this);
+                    var posicion = {
+                        'left': '0px',
+                        'top': '0px'
+                    };
+                    elemento.animate(posicion, {
+                        queue: false,
+                        duration: 600
+                    });
+                }
+            });
+
+            //Generar signos aleatorios
+               function makeid() {
+                   var text = "";
+                   var possible = "-+";
+                   for (var i = 0; i < 1; i++)
+                       text += possible.charAt(Math.floor(Math.random() * possible.length));
+                   return text;
+               }
+            
+            $('.btnSignos').click(function(){
+              var sig1= makeid();
+              var sig2= makeid();
+              $('#inputSigno1').val(""+sig1+"");
+              $('#inputSigno2').val(""+sig2+"");
+        
+            });
+            
+            $('.resetInput').click(function(){
+              $('.input').val = "";
+            });
+            
+            
+            $('#Res1,#Res2,#Res4,#Res5').click( function(){
+             $(this).children('div').addClass('imgMalaRes');
+                sg.sound('error');
+                
+            });
+            
+             $('#Res3').click( function(){
+             $(this).children('div').addClass('imgBuenaRes');
+                sg.sound('success');
+                
+            });
+              
+            
+           
+           
+
+        }
+    </script>
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="./multiplicacion yoloooooo_files/jquery-1.11.1.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="util" src="./multiplicacion yoloooooo_files/tj.utils.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-ui" src="./multiplicacion yoloooooo_files/jquery-ui-1.11.2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg" src="./multiplicacion yoloooooo_files/sg-1.2.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-easytabs" src="./multiplicacion yoloooooo_files/jquery.easytabs.custom.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-fancybox" src="./multiplicacion yoloooooo_files/jquery.fancybox.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg-attr-defaultPack" src="./multiplicacion yoloooooo_files/sg.attr.defaultPack-1.0.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg-tag-defaultPack" src="./multiplicacion yoloooooo_files/sg.tag.defaultPack-1.1.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="sg-attr-draggable" src="./multiplicacion yoloooooo_files/sg.attr.draggable-1.2.js"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="inputKitComp" src="./multiplicacion yoloooooo_files/inputKitComp.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery-alphanum" src="./multiplicacion yoloooooo_files/jquery.alphanum.min.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="flip" src="./multiplicacion yoloooooo_files/jquery.flip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="matched" src="./multiplicacion yoloooooo_files/matched_v1.0.js"></script></head>
+
+<body style="overflow: hidden; background-color: rgba(0, 0, 0, 0);">
+    <div id="stage" data-sg-scalemode="showall" data-sg-id="stage" style="position: absolute; transform: scale(0.74); transform-origin: 0px 0px 0px; left: 200px; top: 0px;"><div data-sg-id="content" style="min-height: 800px; visibility: visible;">
+        <div id="content" class="ggc_contenedorGeneral" style="visibility: visible;">
+            <header class="ggc_header_M">
+                <div class="ggc_icon ggc_icon_M_contenido"></div>
+                <h1>La división de números enteros</h1>
+            </header>
+            <!-- INCIO CONTENIDO (CONTENT) -->
+            <div class="ggc_contenido ggc_contenido_M" style="min-height: 678px; background-color: rgb(215, 236, 244);">
+                <div style="height:40px;background-color:#FEFEFE;">
+                    <div class="actividad">Actividad 5</div>
+                    <div class="sugerencia" style="padding-right: 8%;"> 
+                    </div>
+                </div>
+                <div class="ajuste"></div>
+                <div class="lineaFondo" style="background-color:#1D70B7;margin-top: -1%; position: absolute; z-index: 5;"></div>
+                
+                
+                <!-- INCIO PAGE 1-->
+                <div data-sg-id="item-page" data-sg-key="1" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    
+                    <div class="videoContenedor2">
+                        <video width="800" height="450" style="width: 800px;height: 450px;" controls="">
+                            <source src="video/AN_M_G07_U01_L03_03_13.ogv" type="video/ogg">
+                            <source src="video/AN_M_G07_U01_L03_03_13.mp4" type="video/mp4"> No se reproduce el video? <a href="http://contenidosparaaprender.mineducacion.gov.co/G_7/M/M_G07_U01_L03/video/AN_M_G07_U01_L03_03_13.mp4">Descargar</a>. </video>
+                    </div>
+           
+                </div>
+                <!-- FIN PAGE 1 -->
+                
+                <!-- INCIO PAGE 2-->
+                <div data-sg-id="item-page" data-sg-key="2" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                     
+                    <div class="imgF1 optimizeImage"></div>
+                   
+                </div>
+                <!-- FIN PAGE 2 -->
+                
+                <!-- INCIO PAGE 3-->
+                <div data-sg-id="item-page" data-sg-key="3" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                    
+                    <div class="imgF2 optimizeImage"></div>
+                    
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="1" style="">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="2" style="left: 374px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="3" style="left: 458px;width: 67px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="4" style="left: 552px;width: 67px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="5" style="left: 649px;width: 67px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="6" style="left: 745px;width: 67px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="7" style="left: 839px;width: 64px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="8" style="left: 929px;width: 64px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="9" style="left: 1018px;width: 64px;">
+                     <input type="text" id="inputN1" class="input input1 cajaCorrecta" data-sg-input="10" style="left: 1107px;width: 64px;">
+                    
+                    
+                     <div data-sg-id="item-show" class="itemPosition" data-sg-hide="true" data-sg-sound="success-low" style="left: 320px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3" style=""></div>
+                                  
+                                    <div class="click1Act3" style=""></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                    </div>
+                    
+                     <div data-sg-id="item-show" class="itemPosition" data-sg-hide="true" data-sg-sound="success-low" style="left: 499px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3" style=""></div>
+                                  
+                                    <div class="click1Act3" style=""></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                    </div>
+                    
+                    <div data-sg-id="item-show" class="itemPosition" data-sg-hide="true" data-sg-sound="success-low" style="left: 691px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3" style=""></div>
+                                  
+                                    <div class="click1Act3" style=""></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                    </div>
+                    
+                    <div data-sg-id="item-show" class="itemPosition" data-sg-hide="true" data-sg-sound="success-low" style="left: 877px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3" style=""></div>
+                                  
+                                    <div class="click1Act3" style=""></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                    </div>
+                    
+                    <div data-sg-id="item-show" class="itemPosition" data-sg-hide="true" data-sg-sound="success-low" style="left: 1055px; cursor: pointer; display: none;">
+                                <div>
+                                   <div class="ocultar1Act3" style=""></div>
+                                  
+                                    <div class="click1Act3" style=""></div>
+                                    
+                                </div>
+                                <div style="display: none;">
+                                </div>
+                    </div>
+                    
+                   
+                    
+                    
+                        <input type="text" id="inputN1" class="input input2 cajaCorrecta" data-sg-input="11" style="">
+                        <input type="text" id="inputN1" class="input input2 cajaCorrecta" data-sg-input="12" style="left: 576px;">    
+                        <input type="text" id="inputN1" class="input input2 cajaCorrecta" data-sg-input="13" style="left: 770px;">  
+                        <input type="text" id="inputN1" class="input input2 cajaCorrecta" data-sg-input="14" style="left: 955px;">  
+                        <input type="text" id="inputN1" class="input input2 cajaCorrecta" data-sg-input="15" style="left: 1135px;"> 
+                    
+                    
+                        <input type="text" id="inputN1" class="input input3 cajaCorrecta" data-sg-input="16" style="left: 291px;">
+                        <input type="text" id="inputN1" class="input input3 cajaCorrecta" data-sg-input="17" style="left: 458px;width: 162px;">
+                        <input type="text" id="inputN1" class="input input3 cajaCorrecta" data-sg-input="18" style="left: 649px;width: 162px;">
+                        <input type="text" id="inputN1" class="input input3 cajaCorrecta" data-sg-input="19" style="left: 838px;width: 154px;">
+                       <input type="text" id="inputN1" class="input input3 cajaCorrecta" data-sg-input="20" style="left: 1019px;width: 149px;">
+                    
+                    
+                </div>
+                <!-- FIN PAGE 3 -->
+                
+                 <!-- INCIO PAGE 4-->
+                <div data-sg-id="item-page" data-sg-key="4" data-sg-group="1" data-sg-sound="success-low" style="display: none;">
+                    <div data-sg-id="btn-page" class="navArrow navNext flechaSiguiente off" data-sg-key="next" data-sg-group="1" style="cursor: default;"></div>
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                     
+                    <div class="imgF3 optimizeImage"></div>
+                   
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="21" style="">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="22" style="top: 188px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="23" style="top: 232px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="24" style="top: 278px;">
+                    
+                     <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="25" style="top: 323px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="26" style="top: 369px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="27" style="top: 414px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="28" style="top: 458px;">
+                    
+                     <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="29" style="top: 504px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="30" style="top: 548px;">
+                    <input type="text" id="inputN1" class="input input4 cajaCorrecta" data-sg-input="31" style="top: 593px;">
+                    
+                    
+                     <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="32" style="">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="33" style="top: 188px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="34" style="top: 232px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="35" style="top: 278px;">
+                    
+                     <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="36" style="top: 323px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="37" style="top: 369px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="38" style="top: 414px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="39" style="top: 458px;">
+                    
+                     <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="40" style="top: 504px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="41" style="top: 548px;">
+                    <input type="text" id="inputN1" class="input input5 cajaCorrecta" data-sg-input="42" style="top: 593px;">
+                    
+                     <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="43" style="">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="44" style="top: 188px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="45" style="top: 232px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="46" style="top: 278px;">
+                    
+                     <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="47" style="top: 323px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="48" style="top: 369px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="49" style="top: 414px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="50" style="top: 458px;">
+                    
+                     <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="51" style="top: 504px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="52" style="top: 548px;">
+                    <input type="text" id="inputN1" class="input input6 cajaCorrecta" data-sg-input="53" style="top: 593px;">
+                    
+                    <div data-sg-id="btn-popup" id="btn1popup" class="btn1popup" style="z-index: 2; cursor: pointer;" data-sg-key="1">
+                    </div>
+                    
+                     <div data-sg-id="item-popup" data-sg-key="1" class="popRespuesta1 optimizeImage" style="visibility: visible; display: none;">
+                        <div data-sg-id="btn-popup-close" class="closePopupAct5"></div>
+                        <div class="textoPopup elementoCentradoV">
+                          El signo matematico de <br> division en el teclado <br> es "/".
+                            
+                        </div>
+                    </div>
+                    
+                    
+                    
+                </div>
+                <!-- FIN PAGE 4 -->
+                
+                <!-- INCIO PAGE 5-->
+                <div data-sg-id="item-page" data-sg-key="5" data-sg-group="1" data-sg-sound="success-low" style="display: block;">
+                   
+                    <div data-sg-id="btn-page" class="navArrow navBack flechaAtras" data-sg-key="prev" data-sg-group="1" style="cursor: pointer;"></div>
+                     
+                    <div class="imgF4 optimizeImage"></div>
+                    
+                    <div id="Res1" class="clickRespuesta" style=""> <div class=""></div></div>
+                    <div id="Res2" class="clickRespuesta" style="top: 440px;"> <div class=""></div></div>
+                    <div id="Res3" class="clickRespuesta" style="top: 490px;"> <div class="imgBuenaRes"></div></div>
+                    <div id="Res4" class="clickRespuesta" style="top: 542px;"> <div class=""></div></div>
+                    <div id="Res5" class="clickRespuesta" style="top: 591px;"> <div class=""></div></div>
+                    
+                   
+                </div>
+                <!-- FIN PAGE 5 -->
+                
+
+             
+
+
+            </div>
+            <!-- FIN CONTENIDO (CONTENT) -->
+        </div>
+    </div></div>
+
+
+</body></html>

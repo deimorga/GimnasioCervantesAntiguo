@@ -1,0 +1,1 @@
+<textarea name="campo" cols="40" rows="15"></textarea>
