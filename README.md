@@ -1,6 +1,3 @@
-# GimnasioCervantesAntiguo (código legado 2017)
-Contexto, requisitos PHP, y cómo correrlo.
-
 # GimnasioCervantesAntiguo — código legado (2017)
 
 > Plataforma de Gestión Administrativa de Colegios (PHP + MySQL + jQuery). Este repositorio conserva el código histórico (2013–2017) **y** los artefactos del **análisis funcional y de datos (2025)** para preparar la migración a un modelo **SaaS (MicroNuba)**.
@@ -21,9 +18,9 @@ Contexto, requisitos PHP, y cómo correrlo.
 - **Análisis funcional (5 puntos)**: [Docs/analisis_funcional.md](Docs/analisis_funcional.md)  
   (Inventario de módulos, matriz CRUD, flujos, actores/permisos, riesgos).
 - **Análisis de base de datos**: [Docs/analisis_bd.md](Docs/analisis_bd.md)  
+  (Tablas/columnas/FKs/índices + resumen cuantitativo).
 - **Informe de calidad de datos (Docker)**: [Docs/analisis_bd.md#perfil-de-datos-en-docker-2025-10-24](Docs/analisis_bd.md#perfil-de-datos-en-docker-2025-10-24)
 - **Plantilla de saneo SQL**: ver sección *“Plantilla de saneo SQL”* al final de [Docs/analisis_bd.md](Docs/analisis_bd.md).
-  (Tablas/columnas/FKs/índices + resumen cuantitativo).
 - **Diagrama ER (Mermaid)**: [Docs/erd_mermaid.md](Docs/erd_mermaid.md) ← *GitHub lo renderiza directamente.*
 - **Matriz CRUD detallada (endpoint ↔ tabla)**: [Docs/matriz_crud.csv](Docs/matriz_crud.csv)
 - **Resumen de módulos**: [Docs/modulos_resumen.csv](Docs/modulos_resumen.csv)
