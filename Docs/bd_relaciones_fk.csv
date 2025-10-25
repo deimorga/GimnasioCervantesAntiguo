@@ -1,0 +1,15 @@
+table,columns,ref_table,ref_columns,on_delete,on_update,constraint
+tbl_alumno,id_grado,tbl_grado,id_grado,,,fq_al_gra
+tbl_alumno,id_grupo,tbl_grupo,id_grupo,,,fq_al_gru
+tbl_asignatura,id_area,tbl_area,id_area,,,fq_asig_area
+tbl_calificacion_asignatura,id_alumno,tbl_alumno,identificacion,,,fq_cal_asig_alm
+tbl_calificacion_asignatura,id_periodo,tbl_periodo_academico,id_periodo_academico,,,fq_cal_asig_per
+tbl_calificacion_asignatura,id_asignatura,tbl_asignatura,id_asignatura,,,fq_cal_asi_asig
+tbl_calificacion_logro,id_alumno,tbl_alumno,identificacion,,,fq_cal_logro_alm
+tbl_calificacion_logro,id_logro,tbl_logro,id_logro,,,fq_cal_log_log
+tbl_grupo_asignatura,id_asignatura,tbl_asignatura,id_asignatura,,,fq_ga_a
+tbl_grupo_asignatura,id_grupo,tbl_grupo,id_grupo,,,fq_ga_g
+tbl_grupo_asignatura,id_profesor,tbl_profesor,id_profesor,,,fq_ga_p
+tbl_logro,id_plan_gestor,tbl_plan_gestor,id_plan_gestor,,,fq_logre_plan_gestor
+tbl_plan_gestor,id_grupo_asignatura,tbl_grupo_asignatura,id_grupo_asignatura,,,fq_plan_grupo_asignatura
+tbl_plan_gestor,id_periodo_academico,tbl_periodo_academico,id_periodo_academico,,,fq_plan_periodo

@@ -1,0 +1,17 @@
+table,name,kind,cols
+tbl_alumno,fq_al_gru,INDEX,id_grupo
+tbl_alumno,fq_al_gra,INDEX,id_grado
+tbl_asignatura,fq_asig_area,INDEX,id_area
+tbl_calificacion_asignatura,fq_cal_asig_alm,INDEX,id_alumno
+tbl_calificacion_asignatura,fq_cal_asig_per,INDEX,id_periodo
+tbl_calificacion_asignatura,id_asignatura,INDEX,id_asignatura
+tbl_calificacion_logro,fq_cal_logro_alm,INDEX,id_alumno
+tbl_calificacion_logro,fq_cal_log_log,INDEX,id_logro
+tbl_grupo_asignatura,fq_ga_g,INDEX,id_grupo
+tbl_grupo_asignatura,fq_ga_a,INDEX,id_asignatura
+tbl_grupo_asignatura,fq_ga_p,INDEX,id_profesor
+tbl_logro,id_plan_gestor,INDEX,id_plan_gestor
+tbl_logro,id_periodo,INDEX,id_periodo
+tbl_logro,id_periodo_2,INDEX,id_periodo
+tbl_plan_gestor,id_periodo_academico,INDEX,id_periodo_academico
+tbl_plan_gestor,id_grupo_asignatura,INDEX,id_grupo_asignatura

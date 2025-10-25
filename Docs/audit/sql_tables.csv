@@ -1,0 +1,2062 @@
+op,table,file,line
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones.php,192
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones.php,200
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones.php,213
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones.php,219
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones.php,227
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones.php,235
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones.php,246
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones.php,253
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones.php,259
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones.php,267
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,279
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones.php,289
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones.php,295
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,305
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones.php,313
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones.php,318
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,337
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,348
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,353
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,371
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,394
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,402
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,410
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,418
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,426
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,433
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones.php,444
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones.php,450
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones.php,464
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones.php,470
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones.php,480
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones.php,485
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones.php,490
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,499
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,505
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones.php,515
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones.php,520
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones.php,526
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones.php,534
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones.php,542
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones.php,555
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones.php,561
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones.php,576
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones.php,588
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones.php,597
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones.php,602
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones.php,608
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones.php,614
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones.php,623
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones.php,632
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones.php,640
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones.php,646
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones.php,651
+SELECT,tbl_circular,gimnasiocervantes.com/funciones.php,656
+SELECT,tbl_circular,gimnasiocervantes.com/funciones.php,661
+SELECT,tbl_circular,gimnasiocervantes.com/funciones.php,666
+SELECT,tbl_circular,gimnasiocervantes.com/funciones.php,673
+SELECT,tbl_circular,gimnasiocervantes.com/funciones.php,680
+INSERT,tbl_circular,gimnasiocervantes.com/funciones.php,688
+INSERT,tbl_circular,gimnasiocervantes.com/funciones.php,694
+DELETE,tbl_circular,gimnasiocervantes.com/funciones.php,699
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones.php,709
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones.php,717
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones.php,726
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones.php,731
+SELECT,tbl_grado,gimnasiocervantes.com/funciones.php,741
+SELECT,tbl_grado,gimnasiocervantes.com/funciones.php,749
+SELECT,tbl_grado,gimnasiocervantes.com/funciones.php,757
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones.php,769
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones.php,776
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones.php,783
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones.php,790
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones.php,797
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones.php,805
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones.php,813
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones.php,819
+SELECT,tbl_area,gimnasiocervantes.com/funciones.php,831
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones.php,843
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones.php,851
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones.php,859
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones.php,871
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones.php,879
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones.php,887
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones.php,895
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones.php,901
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones.php,913
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones.php,921
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones.php,935
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones.php,944
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones.php,950
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,962
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,970
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,977
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,982
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,998
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1003
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1012
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1021
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1026
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1031
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1040
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones.php,1059
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones.php,1064
+INSERT,tbl_logro,gimnasiocervantes.com/funciones.php,1073
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones.php,1079
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones.php,1084
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones.php,1089
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones.php,1096
+UPDATE,tbl_,gimnasiocervantes.com/funciones.php,1114
+SELECT,tbl_,gimnasiocervantes.com/funciones.php,1126
+SELECT,tbl_logro,gimnasiocervantes.com/funciones.php,1132
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones.php,1166
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones.php,1172
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones.php,1193
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones.php,1197
+SELECT,tbl_logro,gimnasiocervantes.com/funciones.php,1206
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones.php,1215
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones.php,1221
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones.php,1242
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones.php,1246
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones.php,1270
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones.php,1274
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones.php,1298
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones.php,1302
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones.php,1311
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones.php,1318
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones.php,1321
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,1328
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,1336
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones.php,1343
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones.php,1349
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones.php,1355
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones.php,1361
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones.php,1367
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones.php,1373
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones.php,1378
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones.php,1388
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones.php,1393
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones.php,1399
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones.php,1405
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones.php,1411
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones.php,1417
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones.php,1422
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones.php,1432
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones.php,1435
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones.php,1443
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones.php,1449
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones.php,1453
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones.php,1461
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones.php,1465
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones.php,1488
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones.php,1492
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1506
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1513
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1520
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1527
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1534
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1541
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1548
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1557
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones.php,1564
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1578
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones.php,1597
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1612
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1631
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1638
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1645
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1652
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones.php,1659
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1661
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1671
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1682
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1692
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1711
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1727
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones.php,1734
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones.php,1739
+INSERT,tbl_pago_otros,gimnasiocervantes.com/funciones.php,1745
+UPDATE,tbl_pago_otros,gimnasiocervantes.com/funciones.php,1754
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones.php,1764
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones.php,1773
+DELETE,tbl_gasto,gimnasiocervantes.com/funciones.php,1778
+INSERT,tbl_factura,gimnasiocervantes.com/funciones.php,1791
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones.php,1797
+SELECT,tbl_factura,gimnasiocervantes.com/funciones.php,1803
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones.php,1809
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones.php,1819
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones.php,1824
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones.php,1830
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones.php,1836
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones.php,1842
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones.php,1850
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones.php,1859
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones.php,1867
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones.php,1870
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones.php,1882
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones.php,1887
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones.php,1893
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones.php,1899
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones.php,1905
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/funciones.php,1917
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/funciones.php,1921
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/funciones.php,1929
+SELECT,tbl_consecutivo,gimnasiocervantes.com/funciones.php,1938
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/funciones.php,1945
+INSERT,tbl_respuestas_saber,gimnasiocervantes.com/funciones.php,1978
+UPDATE,Elemento,gimnasiocervantes.com/principal_admin.php,190
+UPDATE,Elemento,gimnasiocervantes.com/principal_admin.php,318
+SELECT,tbl_galeria,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,213
+SELECT,tbl_galeria,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,221
+INSERT,tbl_galeria,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,228
+UPDATE,tbl_galeria,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,234
+INSERT,tbl_galeria,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,245
+SELECT,tbl_proyecto,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,255
+SELECT,tbl_proyecto,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,263
+INSERT,tbl_proyecto,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,270
+UPDATE,tbl_proyecto,gimnasiocervantes.com/aplicacion/funciones/funciones_galeria.php,276
+UPDATE,values,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,5465
+UPDATE,y0,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6629
+UPDATE,POSITION,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6682
+UPDATE,values,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6824
+UPDATE,values,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6903
+UPDATE,floatmargins,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6905
+UPDATE,objattr,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6911
+UPDATE,floatmargins,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6923
+UPDATE,objattr,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,6929
+UPDATE,y,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,12219
+UPDATE,number,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,17900
+UPDATE,right,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,19029
+UPDATE,nestedpos,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,19168
+UPDATE,other,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,19176
+UPDATE,all,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,19199
+UPDATE,Col,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,24093
+UPDATE,Col,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,24095
+UPDATE,maximum,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,24124
+UPDATE,values,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,24704
+UPDATE,maximum,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,25983
+UPDATE,this,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,27277
+UPDATE,PageNumSubstitutions,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28599
+UPDATE,Bookmarks,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28651
+UPDATE,Page,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28659
+UPDATE,Internal,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28733
+UPDATE,Links,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28745
+UPDATE,Form,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28757
+UPDATE,Annotations,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28770
+UPDATE,PageNumSubstitutions,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28795
+UPDATE,Bookmarks,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28847
+UPDATE,Page,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28854
+UPDATE,Internal,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28912
+UPDATE,Links,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28918
+UPDATE,Form,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28924
+UPDATE,Annotations,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28931
+UPDATE,PageNumSubstitutions,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,28943
+UPDATE,the,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,29507
+UPDATE,xref,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,32975
+UPDATE,startxref,gimnasiocervantes.com/pdf/MPDF56/mpdf.php,32987
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example48_progress_bars_advanced.php,1479
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example01_basic.php,130
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example09_forms.php,18
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example09_forms.php,63
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example09_forms.php,106
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example47_progress_bars_simple_custom.php,1479
+SELECT,auto_manager,gimnasiocervantes.com/pdf/MPDF56/examples/example46_progress_bars_simple.php,1479
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,192
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,198
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,206
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,214
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,225
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,232
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,238
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_.php,246
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,258
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,263
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,278
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,286
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,294
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,302
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,313
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,319
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,329
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,334
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_.php,343
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_.php,348
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_.php,354
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_.php,362
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_.php,375
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_.php,381
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_.php,396
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_.php,408
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones_.php,417
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_.php,422
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_.php,428
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_.php,434
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones_.php,443
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_.php,452
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_.php,457
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones_.php,462
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_.php,467
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_.php,473
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones_.php,478
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_.php,488
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_.php,496
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_.php,505
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones_.php,510
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_.php,520
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,532
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,539
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,546
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,553
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,560
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,568
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,576
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_.php,582
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones_.php,594
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_.php,606
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_.php,614
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_.php,622
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_.php,634
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_.php,642
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_.php,650
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_.php,658
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_.php,664
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_.php,676
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_.php,684
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_.php,698
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_.php,707
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_.php,713
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,725
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,732
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,737
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,753
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,758
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,767
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,776
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,781
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,786
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,795
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_.php,814
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_.php,819
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones_.php,824
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_.php,829
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_.php,834
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_.php,839
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_.php,846
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones_.php,858
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones_.php,870
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_.php,876
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_.php,910
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_.php,916
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_.php,937
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_.php,941
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_.php,950
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_.php,959
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_.php,980
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_.php,984
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_.php,1008
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_.php,1012
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_.php,1021
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_.php,1028
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_.php,1031
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_.php,1038
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_.php,1045
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_.php,1051
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_.php,1057
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_.php,1063
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_.php,1069
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_.php,1075
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_.php,1080
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1090
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1095
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1101
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1107
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1113
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1119
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1124
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1134
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1137
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1145
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1151
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1155
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1163
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_.php,1167
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_.php,1190
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_.php,1194
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1207
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1212
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1218
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1224
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1229
+INSERT,tbl_plan_alumno,gimnasiocervantes.com/funciones/funciones_.php,1235
+INSERT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1244
+UPDATE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1252
+DELETE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_.php,1257
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_.php,1260
+SELECT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_.php,1272
+INSERT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_.php,1277
+UPDATE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_.php,1286
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_.php,1291
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1301
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1308
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1315
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1322
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1329
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1336
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1345
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_.php,1352
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1366
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1373
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1380
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1387
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1394
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1404
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1423
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1439
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_.php,1446
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_.php,1456
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_.php,1465
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones_.php,1474
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_.php,1483
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_.php,1488
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_.php,1494
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_.php,1500
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_.php,1506
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_.php,1514
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_.php,1523
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_.php,1531
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_.php,1534
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_.php,1546
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_.php,1551
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_.php,1557
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_.php,1563
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones_.php,1569
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones.php,411
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones.php,419
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,432
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,438
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,446
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,454
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,465
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,472
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,478
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones.php,486
+INSERT,tbl_monitoreo_user,gimnasiocervantes.com/funciones/funciones.php,496
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,506
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,516
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,522
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,532
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,540
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,545
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,564
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,575
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,580
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,587
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,595
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,606
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,611
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,629
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,652
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,660
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,668
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,676
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,684
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,691
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,702
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,708
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,722
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,728
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,738
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,743
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,748
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,757
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,763
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones.php,773
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones.php,778
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones.php,784
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones.php,792
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones.php,800
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones.php,813
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones.php,819
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones.php,834
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones.php,846
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones.php,855
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones.php,860
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones.php,866
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones.php,872
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones.php,881
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones.php,891
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones.php,897
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones.php,906
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones.php,912
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones.php,918
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones.php,923
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,928
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,933
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,939
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,947
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,954
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,961
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,968
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,976
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,982
+SELECT,tbl_sede,gimnasiocervantes.com/funciones/funciones.php,988
+SELECT,tbl_sede,gimnasiocervantes.com/funciones/funciones.php,993
+INSERT,tbl_sede,gimnasiocervantes.com/funciones/funciones.php,998
+UPDATE,tbl_sede,gimnasiocervantes.com/funciones/funciones.php,1003
+DELETE,tbl_sede,gimnasiocervantes.com/funciones/funciones.php,1008
+SELECT,tbl_enlace_principal,gimnasiocervantes.com/funciones/funciones.php,1015
+SELECT,tbl_enlace_principal,gimnasiocervantes.com/funciones/funciones.php,1020
+INSERT,tbl_enlace_principal,gimnasiocervantes.com/funciones/funciones.php,1025
+UPDATE,tbl_enlace_principal,gimnasiocervantes.com/funciones/funciones.php,1031
+DELETE,tbl_enlace_principal,gimnasiocervantes.com/funciones/funciones.php,1036
+SELECT,tbl_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1043
+SELECT,tbl_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1049
+SELECT,tbl_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1055
+INSERT,tbl_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1060
+UPDATE,tbl_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1066
+DELETE,tbl_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1072
+SELECT,tbl_tipo_contenido_enlace,gimnasiocervantes.com/funciones/funciones.php,1079
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,1085
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,1090
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,1097
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,1104
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,1109
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones.php,1114
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones.php,1125
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones.php,1133
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones.php,1142
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones.php,1147
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones.php,1157
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones.php,1165
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones.php,1173
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1185
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1192
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1199
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1206
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1213
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1221
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1229
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones.php,1235
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones.php,1247
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones.php,1259
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones.php,1267
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones.php,1275
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones.php,1283
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones.php,1295
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones.php,1303
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones.php,1311
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones.php,1319
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones.php,1325
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones.php,1337
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones.php,1345
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones.php,1359
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones.php,1368
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones.php,1374
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1386
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1394
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1402
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1409
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1414
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1430
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1435
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1444
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1453
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1458
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1463
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1472
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1491
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,1510
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,1515
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,1520
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1529
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1535
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1540
+UPDATE,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1545
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1550
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones.php,1555
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones.php,1561
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,1566
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,1571
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,1578
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones.php,1596
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones.php,1608
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1614
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones.php,1654
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones.php,1660
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones.php,1681
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones.php,1685
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones.php,1694
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones.php,1703
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones.php,1709
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones.php,1715
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones.php,1736
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones.php,1740
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones.php,1764
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones.php,1768
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones.php,1792
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones.php,1796
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones.php,1805
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones.php,1813
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones.php,1816
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,1825
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,1833
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones.php,1840
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones.php,1846
+SELECT,tbl_no_recupera,gimnasiocervantes.com/funciones/funciones.php,1852
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones.php,1858
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones.php,1864
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones.php,1870
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones.php,1876
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones.php,1881
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1891
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1896
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1902
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1908
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1914
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1920
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1925
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1935
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1938
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1946
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1952
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1956
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1964
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones.php,1968
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones.php,1991
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones.php,1995
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2009
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2016
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2023
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2030
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2037
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2044
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2089
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2098
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones.php,2105
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2119
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones.php,2161
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2176
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2195
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2215
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2222
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2229
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2236
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones.php,2243
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2245
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2255
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2266
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2276
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2295
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2311
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones.php,2318
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones.php,2323
+INSERT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones.php,2329
+UPDATE,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones.php,2338
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones.php,2352
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones.php,2363
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones.php,2369
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones.php,2376
+DELETE,tbl_gasto,gimnasiocervantes.com/funciones/funciones.php,2381
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones.php,2394
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones.php,2400
+SELECT,tbl_factura,gimnasiocervantes.com/funciones/funciones.php,2406
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones.php,2412
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones.php,2422
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones.php,2427
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones.php,2434
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones.php,2441
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones.php,2448
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones.php,2454
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones.php,2460
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones.php,2466
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones.php,2475
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones.php,2484
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones.php,2492
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones.php,2495
+SELECT,tbl_tipo_comunicado,gimnasiocervantes.com/funciones/funciones.php,2503
+SELECT,tbl_tipo_comunicado,gimnasiocervantes.com/funciones/funciones.php,2508
+INSERT,tbl_tipo_comunicado,gimnasiocervantes.com/funciones/funciones.php,2513
+UPDATE,tbl_tipo_comunicado,gimnasiocervantes.com/funciones/funciones.php,2522
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones.php,2532
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones.php,2537
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones.php,2543
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones.php,2549
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones.php,2555
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones.php,2567
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones.php,2571
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones.php,2579
+SELECT,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones.php,2588
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones.php,2595
+INSERT,tbl_respuestas_saber,gimnasiocervantes.com/funciones/funciones.php,2628
+INSERT,tbl_elemento_alumno_actividad_aula,gimnasiocervantes.com/funciones/funciones.php,2633
+SELECT,tbl_seccion_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,2643
+SELECT,tbl_dato_seccion_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,2652
+SELECT,tbl_dato_seccion_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,2658
+INSERT,tbl_dato_seccion_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,2664
+DELETE,tbl_dato_seccion_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,2670
+UPDATE,tbl_dato_seccion_plan_gestor,gimnasiocervantes.com/funciones/funciones.php,2677
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,192
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,200
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,213
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,219
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,227
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,235
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,246
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,253
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,259
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old_aulas.php,267
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,279
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,289
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,295
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,305
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,313
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,318
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,337
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,348
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,353
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,367
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,401
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,409
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,417
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,425
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,433
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,440
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,451
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,457
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,467
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,472
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,477
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,493
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,498
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,504
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,512
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,520
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,533
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,539
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,554
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old_aulas.php,566
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,575
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,580
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,586
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,592
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones_old_aulas.php,601
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old_aulas.php,610
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old_aulas.php,615
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old_aulas.php,620
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,625
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,630
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,635
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,642
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,650
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,656
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones_old_aulas.php,661
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,671
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,679
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,688
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,693
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,703
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,711
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,719
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,731
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,738
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,745
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,752
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,759
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,767
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,775
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,781
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones_old_aulas.php,793
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old_aulas.php,805
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old_aulas.php,813
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old_aulas.php,821
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,833
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,841
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,849
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,857
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,863
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,875
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,883
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,897
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,906
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,912
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,924
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,932
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,939
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,944
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,960
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,965
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,974
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,983
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,988
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,993
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1002
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1021
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1026
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1035
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1041
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1046
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1051
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1058
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1076
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1088
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1094
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1128
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1134
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1155
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1159
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1168
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1177
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1183
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1204
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1208
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1232
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1236
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1260
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1264
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1273
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1280
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1283
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1290
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1298
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1305
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1311
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1317
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1323
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1329
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1335
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1340
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1350
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1355
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1361
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1367
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1373
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1379
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1384
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1394
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1397
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1405
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1411
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1415
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1423
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1427
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1450
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1454
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1467
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1472
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1478
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1484
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1489
+INSERT,tbl_plan_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1495
+INSERT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1504
+UPDATE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1512
+DELETE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1517
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1520
+SELECT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1532
+INSERT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1537
+INSERT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1546
+UPDATE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1555
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1560
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1570
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1577
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1584
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1591
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1598
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1605
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1614
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1621
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1635
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1654
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1669
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1688
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1695
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1702
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1709
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1717
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1728
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1738
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1757
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1773
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1780
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1785
+INSERT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1791
+UPDATE,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1800
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1810
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1819
+DELETE,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1824
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1834
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1840
+SELECT,tbl_factura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1846
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1852
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1862
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1867
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1873
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1879
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1885
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1893
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1902
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1910
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1913
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1925
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1930
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1936
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1942
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1948
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1960
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1964
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1972
+SELECT,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1981
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_old_aulas.php,1988
+INSERT,tbl_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,314
+UPDATE,tbl_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,320
+SELECT,tbl_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,325
+SELECT,tbl_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,332
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_aula.php,338
+DELETE,tbl_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,346
+SELECT,tbl_tipo_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,355
+SELECT,tbl_tipo_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,360
+SELECT,tbl_tipo_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,365
+INSERT,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,370
+INSERT,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,375
+DELETE,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,380
+UPDATE,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,385
+SELECT,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,390
+SELECT,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,398
+SELECT,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,403
+SELECT,tbl_elemento,gimnasiocervantes.com/funciones/funciones_aula.php,408
+SELECT,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,413
+SELECT,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,418
+INSERT,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,423
+UPDATE,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,429
+UPDATE,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,434
+DELETE,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,439
+INSERT,tbl_respuesta,gimnasiocervantes.com/funciones/funciones_aula.php,444
+INSERT,tbl_respuesta,gimnasiocervantes.com/funciones/funciones_aula.php,449
+SELECT,tbl_respuesta,gimnasiocervantes.com/funciones/funciones_aula.php,454
+SELECT,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,459
+SELECT,tbl_pregunta,gimnasiocervantes.com/funciones/funciones_aula.php,464
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_aula.php,469
+SELECT,tbl_actividad_aula_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_aula.php,486
+INSERT,tbl_actividad_aula_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_aula.php,491
+DELETE,tbl_actividad_aula_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_aula.php,498
+SELECT,tbl_elemento_alumno_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,503
+SELECT,tbl_elemento_alumno_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,508
+DELETE,tbl_elemento_alumno_actividad_aula,gimnasiocervantes.com/funciones/funciones_aula.php,513
+INSERT,tbl_registro,gimnasiocervantes.com/funciones/conexion_.php,20
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,468
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,476
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,489
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,495
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,503
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,511
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,522
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,529
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,535
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,543
+INSERT,tbl_monitoreo_user,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,553
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,563
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,573
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,579
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,589
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,597
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,602
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,621
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,632
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,637
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,655
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,678
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,686
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,694
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,702
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,710
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,717
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,728
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,734
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,748
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,754
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,764
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,769
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,774
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,783
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,789
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,799
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,804
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,810
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,818
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,826
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,839
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,845
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,860
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,872
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,881
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,886
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,892
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,898
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,907
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,916
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,922
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,931
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,937
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,943
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,948
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,953
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,958
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,964
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,972
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,979
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,986
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,993
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1001
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1007
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1012
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1017
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1024
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1031
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1036
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1041
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1051
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1059
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1068
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1073
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1083
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1091
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1099
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1111
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1118
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1125
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1132
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1139
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1147
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1155
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1161
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1173
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1185
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1193
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1201
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1209
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1221
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1229
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1237
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1245
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1251
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1263
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1271
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1285
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1294
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1300
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1312
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1320
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1327
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1332
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1348
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1353
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1362
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1371
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1376
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1381
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1390
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1409
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1428
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1433
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1438
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1447
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1453
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1458
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1463
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1470
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1488
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1500
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1506
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1546
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1552
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1573
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1577
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1586
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1595
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1601
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1607
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1628
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1632
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1656
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1660
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1684
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1688
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1697
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1705
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1708
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1717
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1725
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1732
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1738
+SELECT,tbl_no_recupera,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1744
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1750
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1756
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1762
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1768
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1773
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1783
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1788
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1794
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1800
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1806
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1812
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1817
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1827
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1830
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1838
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1844
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1848
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1856
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1860
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1883
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1887
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1901
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1908
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1915
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1922
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1929
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1936
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1981
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1990
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,1997
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2011
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2053
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2068
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2087
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2107
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2114
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2121
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2128
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2135
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2137
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2147
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2158
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2168
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2187
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2203
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2210
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2215
+INSERT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2221
+UPDATE,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2230
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2244
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2255
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2261
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2268
+DELETE,tbl_gasto,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2273
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2286
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2292
+SELECT,tbl_factura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2298
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2304
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2314
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2319
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2325
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2331
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2337
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2345
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2354
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2362
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2365
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2377
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2382
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2388
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2394
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2400
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2412
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2416
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2424
+SELECT,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2433
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2440
+INSERT,tbl_respuestas_saber,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2473
+INSERT,tbl_elemento_alumno_actividad_aula,gimnasiocervantes.com/funciones/funciones_borrar_18022018.php,2478
+UPDATE,tbl_enlace,gimnasiocervantes.com/funciones/ejecutar_query.php,3
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_20150505.php,192
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_20150505.php,200
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,213
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,219
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,227
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,235
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,246
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,253
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,259
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_20150505.php,267
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,279
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,289
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,295
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,305
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,313
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,318
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,337
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,348
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,353
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,371
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,405
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,413
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,421
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,429
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,437
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,444
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,455
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,461
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,475
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,481
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,491
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,496
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,501
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,518
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,523
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,529
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,537
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,545
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,558
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,564
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,579
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_20150505.php,591
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones_20150505.php,600
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_20150505.php,605
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_20150505.php,611
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_20150505.php,617
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones_20150505.php,626
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_20150505.php,635
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_20150505.php,640
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones_20150505.php,645
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,650
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,655
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,660
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,667
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,674
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,682
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,688
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones_20150505.php,693
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_20150505.php,703
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_20150505.php,711
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_20150505.php,720
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones_20150505.php,725
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_20150505.php,735
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_20150505.php,743
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_20150505.php,751
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,763
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,770
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,777
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,784
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,791
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,799
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,807
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_20150505.php,813
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones_20150505.php,825
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_20150505.php,837
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_20150505.php,845
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_20150505.php,853
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,865
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,873
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,881
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,889
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,895
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_20150505.php,907
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_20150505.php,915
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_20150505.php,929
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_20150505.php,938
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_20150505.php,944
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,956
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,964
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,971
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,976
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,992
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,997
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1006
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1015
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1020
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1025
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1034
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_20150505.php,1053
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_20150505.php,1058
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1067
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1073
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_20150505.php,1078
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_20150505.php,1083
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_20150505.php,1090
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones_20150505.php,1108
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones_20150505.php,1120
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1126
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1160
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1166
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1187
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1191
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1200
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_20150505.php,1209
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1215
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_20150505.php,1236
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_20150505.php,1240
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1264
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1268
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1292
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_20150505.php,1296
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1305
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1312
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1315
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1322
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1330
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1337
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_20150505.php,1343
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_20150505.php,1349
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_20150505.php,1355
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_20150505.php,1361
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_20150505.php,1367
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_20150505.php,1372
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1382
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1387
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1393
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1399
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1405
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1411
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1416
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1426
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1429
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1437
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1443
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1447
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1455
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_20150505.php,1459
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1482
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_20150505.php,1486
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1500
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1507
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1514
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1521
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1528
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1535
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1542
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1551
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_20150505.php,1558
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1572
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_20150505.php,1591
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1606
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1625
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1632
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1639
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1646
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1653
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1655
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1665
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1676
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1686
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1705
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1721
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1728
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_20150505.php,1733
+INSERT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_20150505.php,1739
+UPDATE,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_20150505.php,1748
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_20150505.php,1758
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_20150505.php,1767
+DELETE,tbl_gasto,gimnasiocervantes.com/funciones/funciones_20150505.php,1772
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones_20150505.php,1782
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_20150505.php,1788
+SELECT,tbl_factura,gimnasiocervantes.com/funciones/funciones_20150505.php,1794
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_20150505.php,1800
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_20150505.php,1810
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1815
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_20150505.php,1821
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_20150505.php,1827
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_20150505.php,1833
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1841
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_20150505.php,1850
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_20150505.php,1858
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1861
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_20150505.php,1873
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1878
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1884
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_20150505.php,1890
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones_20150505.php,1896
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1908
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1912
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_20150505.php,1920
+SELECT,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_20150505.php,1929
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_20150505.php,1936
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,192
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,198
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,206
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,214
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,225
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,232
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,238
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old.php,246
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,258
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,263
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,278
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,286
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,294
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,302
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,313
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,319
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,329
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,334
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,343
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,348
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,354
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,362
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,375
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,381
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,396
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old.php,408
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones_old.php,417
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old.php,422
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old.php,428
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old.php,434
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones_old.php,443
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old.php,452
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old.php,457
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old.php,462
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old.php,467
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old.php,473
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones_old.php,478
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old.php,488
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old.php,496
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old.php,505
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old.php,510
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old.php,520
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,532
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,539
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,546
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,553
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,560
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,568
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,576
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old.php,582
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones_old.php,594
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old.php,606
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old.php,614
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old.php,622
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,634
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,642
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,650
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,658
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,664
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old.php,676
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old.php,684
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old.php,698
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old.php,707
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old.php,713
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,725
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,733
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,740
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,745
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,761
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,766
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,775
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,784
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,789
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,794
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,803
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old.php,822
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old.php,827
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old.php,832
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,837
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old.php,842
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old.php,847
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old.php,854
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones_old.php,866
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones_old.php,878
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old.php,884
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old.php,918
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old.php,924
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old.php,945
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old.php,949
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old.php,958
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old.php,967
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,973
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old.php,994
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old.php,998
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,1022
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,1026
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,1050
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old.php,1054
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1063
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1070
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1073
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1080
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1087
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old.php,1093
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old.php,1099
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old.php,1105
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old.php,1111
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old.php,1117
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old.php,1122
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1132
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1137
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1143
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1149
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1155
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1161
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1166
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1176
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1179
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1187
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1193
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1197
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1205
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old.php,1209
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old.php,1232
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old.php,1236
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1249
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1254
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1260
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1266
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1271
+INSERT,tbl_plan_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1277
+INSERT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1286
+UPDATE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1294
+DELETE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old.php,1299
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old.php,1302
+SELECT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old.php,1314
+INSERT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old.php,1319
+UPDATE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old.php,1328
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old.php,1333
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1343
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1350
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1357
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1364
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1371
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1378
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1387
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old.php,1394
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1408
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1415
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1422
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1429
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1436
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1446
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1465
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1481
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1488
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old.php,1498
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old.php,1507
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones_old.php,1516
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old.php,1525
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1530
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_old.php,1536
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old.php,1542
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old.php,1548
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1556
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_old.php,1565
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old.php,1573
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1576
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_old.php,1588
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1593
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_old.php,1599
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_old.php,1605
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones_old.php,1611
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_old (2).php,192
+SELECT,tbl_proyecto,gimnasiocervantes.com/funciones/funciones_old (2).php,200
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,213
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,219
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,227
+SELECT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,235
+INSERT,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,246
+DELETE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,253
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,259
+UPDATE,tbl_usuario,gimnasiocervantes.com/funciones/funciones_old (2).php,267
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,279
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,289
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,295
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,305
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,313
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,318
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,337
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,348
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,353
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,371
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,405
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,413
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,421
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,429
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,437
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,444
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,455
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,461
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,475
+INSERT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,481
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,491
+DELETE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,496
+UPDATE,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,501
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,517
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,522
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,528
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,536
+SELECT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,544
+UPDATE,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,557
+INSERT,tbl_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,563
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,578
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/funciones/funciones_old (2).php,590
+SELECT,tbl_modulo,gimnasiocervantes.com/funciones/funciones_old (2).php,599
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old (2).php,604
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old (2).php,610
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/funciones/funciones_old (2).php,616
+SELECT,tbl_enlace,gimnasiocervantes.com/funciones/funciones_old (2).php,625
+SELECT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old (2).php,634
+INSERT,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old (2).php,639
+DELETE,tbl_noticia,gimnasiocervantes.com/funciones/funciones_old (2).php,644
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,649
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,654
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,659
+SELECT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,666
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,674
+INSERT,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,680
+DELETE,tbl_circular,gimnasiocervantes.com/funciones/funciones_old (2).php,685
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old (2).php,695
+SELECT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old (2).php,703
+INSERT,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old (2).php,712
+UPDATE,tbl_contacto,gimnasiocervantes.com/funciones/funciones_old (2).php,717
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old (2).php,727
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old (2).php,735
+SELECT,tbl_grado,gimnasiocervantes.com/funciones/funciones_old (2).php,743
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,755
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,762
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,769
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,776
+SELECT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,783
+INSERT,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,791
+UPDATE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,799
+DELETE,tbl_grupo,gimnasiocervantes.com/funciones/funciones_old (2).php,805
+SELECT,tbl_area,gimnasiocervantes.com/funciones/funciones_old (2).php,817
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old (2).php,829
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old (2).php,837
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/funciones/funciones_old (2).php,845
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,857
+SELECT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,865
+INSERT,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,873
+UPDATE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,881
+DELETE,tbl_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,887
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old (2).php,899
+SELECT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old (2).php,907
+INSERT,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old (2).php,921
+UPDATE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old (2).php,930
+DELETE,tbl_profesor,gimnasiocervantes.com/funciones/funciones_old (2).php,936
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,948
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,956
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,963
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,968
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,984
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,989
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,998
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1007
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1012
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1017
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1026
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old (2).php,1045
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old (2).php,1050
+INSERT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1059
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1065
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old (2).php,1070
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old (2).php,1075
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/funciones/funciones_old (2).php,1082
+UPDATE,tbl_,gimnasiocervantes.com/funciones/funciones_old (2).php,1100
+SELECT,tbl_,gimnasiocervantes.com/funciones/funciones_old (2).php,1112
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1118
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1152
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1158
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1179
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1183
+SELECT,tbl_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1192
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old (2).php,1201
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1207
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old (2).php,1228
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/funciones/funciones_old (2).php,1232
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1256
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1260
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1284
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/funciones/funciones_old (2).php,1288
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1297
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1304
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1307
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1314
+SELECT,tbl_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1322
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1329
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old (2).php,1335
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old (2).php,1341
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old (2).php,1347
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old (2).php,1353
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old (2).php,1359
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/funciones/funciones_old (2).php,1364
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1374
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1379
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1385
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1391
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1397
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1403
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1408
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1418
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1421
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1429
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1435
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1439
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1447
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/funciones/funciones_old (2).php,1451
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1474
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/funciones/funciones_old (2).php,1478
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1491
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1496
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1502
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1508
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1513
+INSERT,tbl_plan_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1519
+INSERT,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1528
+UPDATE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1536
+DELETE,tbl_plan_entrenamiento,gimnasiocervantes.com/funciones/funciones_old (2).php,1541
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old (2).php,1544
+SELECT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old (2).php,1556
+INSERT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old (2).php,1561
+INSERT,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old (2).php,1570
+UPDATE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old (2).php,1579
+DELETE,tbl_ejercicio,gimnasiocervantes.com/funciones/funciones_old (2).php,1584
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1594
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1601
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1608
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1615
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1622
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1629
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1638
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/funciones/funciones_old (2).php,1645
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1659
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old (2).php,1678
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1693
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1712
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1719
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1726
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1733
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1741
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1752
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1762
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1781
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1797
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1804
+SELECT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old (2).php,1809
+INSERT,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old (2).php,1815
+UPDATE,tbl_pago_otros,gimnasiocervantes.com/funciones/funciones_old (2).php,1824
+INSERT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old (2).php,1834
+SELECT,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old (2).php,1843
+DELETE,tbl_gasto,gimnasiocervantes.com/funciones/funciones_old (2).php,1848
+INSERT,tbl_factura,gimnasiocervantes.com/funciones/funciones_old (2).php,1858
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_old (2).php,1864
+SELECT,tbl_factura,gimnasiocervantes.com/funciones/funciones_old (2).php,1870
+UPDATE,tbl_factura,gimnasiocervantes.com/funciones/funciones_old (2).php,1876
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old (2).php,1886
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1891
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_old (2).php,1897
+SELECT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old (2).php,1903
+INSERT,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old (2).php,1909
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1917
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/funciones/funciones_old (2).php,1926
+DELETE,tbl_comunicado,gimnasiocervantes.com/funciones/funciones_old (2).php,1934
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1937
+SELECT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_old (2).php,1949
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1954
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1960
+INSERT,tbl_recomendacion,gimnasiocervantes.com/funciones/funciones_old (2).php,1966
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/funciones/funciones_old (2).php,1972
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1984
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1988
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/funciones/funciones_old (2).php,1996
+SELECT,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_old (2).php,2005
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/funciones/funciones_old (2).php,2012
+SELECT,tbl_centro,gimnasiocervantes.com/funciones/prueba_xml.php,19
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Examples/34chartupdate.php,52
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel.php,762
+UPDATE,cellXf,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel.php,973
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel.php,1064
+UPDATE,xfIndex,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel.php,1095
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel.php,1109
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel.php,1119
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Style.php,412
+UPDATE,page,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,157
+UPDATE,any,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,179
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,191
+UPDATE,hyperlinks,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,218
+UPDATE,data,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,242
+UPDATE,merged,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,266
+UPDATE,protected,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,287
+UPDATE,column,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,312
+UPDATE,row,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,337
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,440
+UPDATE,styles,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,456
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,515
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,518
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,521
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,524
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,527
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,530
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,533
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,536
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,539
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,597
+UPDATE,worksheet,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,607
+UPDATE,workbook,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,616
+UPDATE,references,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,630
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,642
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,759
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,771
+UPDATE,anything,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,782
+UPDATE,named,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,799
+UPDATE,cell,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,827
+UPDATE,range,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,839
+UPDATE,single,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,865
+UPDATE,mapping,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,2337
+UPDATE,XF,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,2350
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,918
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php,2461
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php,2594
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php,3400
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php,3705
+UPDATE,the,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/PCLZip/pclzip.lib.php,3811
+UPDATE,fitToPage,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/PageSetup.php,345
+UPDATE,fitToPage,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/PageSetup.php,400
+UPDATE,fitToPage,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/PageSetup.php,426
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemoryGZip.php,50
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/CacheBase.php,126
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/DiscISAM.php,75
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memcache.php,78
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Wincache.php,76
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/PHPTemp.php,69
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Memory.php,40
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/Igbinary.php,50
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,65
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,99
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,133
+DELETE,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,158
+DELETE,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,179
+UPDATE,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,185
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,205
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite.php,233
+UPDATE,query,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,59
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,96
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,238
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,266
+SELECT,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,314
+UPDATE,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,316
+DELETE,kvp_,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/SQLite3.php,317
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/ICache.php,31
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/ICache.php,41
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/MemorySerialized.php,49
+UPDATE,a,gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/CachedObjectStorage/APC.php,73
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,5
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,6
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,7
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,8
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,9
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,10
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,11
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,12
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,13
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,14
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,15
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,16
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,17
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,18
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,19
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,20
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,21
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,22
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,23
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,24
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,25
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,26
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,27
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,28
+SELECT,tbl_profesor,gimnasiocervantes.com/profesor/reg_carga.php,29
+SELECT,tbl_galeria,gimnasiocervantes.com/administrativo/funciones.php,192
+SELECT,tbl_galeria,gimnasiocervantes.com/administrativo/funciones.php,200
+SELECT,tbl_proyecto,gimnasiocervantes.com/administrativo/funciones.php,213
+SELECT,tbl_proyecto,gimnasiocervantes.com/administrativo/funciones.php,221
+SELECT,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,234
+SELECT,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,240
+SELECT,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,248
+SELECT,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,256
+INSERT,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,267
+DELETE,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,274
+UPDATE,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,280
+UPDATE,tbl_usuario,gimnasiocervantes.com/administrativo/funciones.php,288
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,300
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,305
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,319
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,353
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,361
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,369
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,377
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,385
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,392
+UPDATE,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,403
+INSERT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,409
+UPDATE,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,419
+DELETE,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,424
+UPDATE,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,429
+SELECT,tbl_acudiente,gimnasiocervantes.com/administrativo/funciones.php,438
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/administrativo/funciones.php,443
+SELECT,tbl_alumno_acudiente,gimnasiocervantes.com/administrativo/funciones.php,449
+SELECT,tbl_acudiente,gimnasiocervantes.com/administrativo/funciones.php,457
+SELECT,tbl_acudiente,gimnasiocervantes.com/administrativo/funciones.php,465
+UPDATE,tbl_acudiente,gimnasiocervantes.com/administrativo/funciones.php,478
+INSERT,tbl_acudiente,gimnasiocervantes.com/administrativo/funciones.php,484
+INSERT,tbl_alumno_acudiente,gimnasiocervantes.com/administrativo/funciones.php,499
+DELETE,tbl_alumno_acudiente,gimnasiocervantes.com/administrativo/funciones.php,511
+SELECT,tbl_modulo,gimnasiocervantes.com/administrativo/funciones.php,520
+SELECT,tbl_usuario_modulo,gimnasiocervantes.com/administrativo/funciones.php,525
+INSERT,tbl_usuario_modulo,gimnasiocervantes.com/administrativo/funciones.php,531
+DELETE,tbl_usuario_modulo,gimnasiocervantes.com/administrativo/funciones.php,537
+SELECT,tbl_enlace,gimnasiocervantes.com/administrativo/funciones.php,546
+SELECT,tbl_noticia,gimnasiocervantes.com/administrativo/funciones.php,555
+INSERT,tbl_noticia,gimnasiocervantes.com/administrativo/funciones.php,560
+DELETE,tbl_noticia,gimnasiocervantes.com/administrativo/funciones.php,565
+SELECT,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,570
+SELECT,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,575
+SELECT,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,580
+SELECT,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,587
+INSERT,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,595
+INSERT,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,601
+DELETE,tbl_circular,gimnasiocervantes.com/administrativo/funciones.php,606
+SELECT,tbl_contacto,gimnasiocervantes.com/administrativo/funciones.php,616
+SELECT,tbl_contacto,gimnasiocervantes.com/administrativo/funciones.php,624
+INSERT,tbl_contacto,gimnasiocervantes.com/administrativo/funciones.php,633
+UPDATE,tbl_contacto,gimnasiocervantes.com/administrativo/funciones.php,638
+SELECT,tbl_grado,gimnasiocervantes.com/administrativo/funciones.php,648
+SELECT,tbl_grado,gimnasiocervantes.com/administrativo/funciones.php,656
+SELECT,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,668
+SELECT,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,675
+SELECT,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,682
+SELECT,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,689
+SELECT,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,696
+INSERT,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,704
+UPDATE,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,712
+DELETE,tbl_grupo,gimnasiocervantes.com/administrativo/funciones.php,718
+SELECT,tbl_area,gimnasiocervantes.com/administrativo/funciones.php,730
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/administrativo/funciones.php,742
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/administrativo/funciones.php,750
+SELECT,tbl_periodo_academico,gimnasiocervantes.com/administrativo/funciones.php,758
+SELECT,tbl_asignatura,gimnasiocervantes.com/administrativo/funciones.php,770
+SELECT,tbl_asignatura,gimnasiocervantes.com/administrativo/funciones.php,778
+INSERT,tbl_asignatura,gimnasiocervantes.com/administrativo/funciones.php,786
+UPDATE,tbl_asignatura,gimnasiocervantes.com/administrativo/funciones.php,794
+DELETE,tbl_asignatura,gimnasiocervantes.com/administrativo/funciones.php,800
+SELECT,tbl_profesor,gimnasiocervantes.com/administrativo/funciones.php,812
+SELECT,tbl_profesor,gimnasiocervantes.com/administrativo/funciones.php,820
+INSERT,tbl_profesor,gimnasiocervantes.com/administrativo/funciones.php,834
+UPDATE,tbl_profesor,gimnasiocervantes.com/administrativo/funciones.php,843
+DELETE,tbl_profesor,gimnasiocervantes.com/administrativo/funciones.php,849
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,861
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,869
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,876
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,881
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,897
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,902
+INSERT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,911
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,920
+UPDATE,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,925
+DELETE,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,930
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,939
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/administrativo/funciones.php,958
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/administrativo/funciones.php,963
+INSERT,tbl_logro,gimnasiocervantes.com/administrativo/funciones.php,968
+SELECT,tbl_grupo_asignatura,gimnasiocervantes.com/administrativo/funciones.php,973
+SELECT,tbl_plan_gestor,gimnasiocervantes.com/administrativo/funciones.php,978
+INSERT,tbl_plan_gestor,gimnasiocervantes.com/administrativo/funciones.php,983
+UPDATE,tbl_plan_gestor,gimnasiocervantes.com/administrativo/funciones.php,990
+UPDATE,tbl_,gimnasiocervantes.com/administrativo/funciones.php,1002
+SELECT,tbl_,gimnasiocervantes.com/administrativo/funciones.php,1014
+SELECT,tbl_logro,gimnasiocervantes.com/administrativo/funciones.php,1020
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/administrativo/funciones.php,1054
+SELECT,tbl_calificacion_logro,gimnasiocervantes.com/administrativo/funciones.php,1060
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/administrativo/funciones.php,1081
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/administrativo/funciones.php,1085
+SELECT,tbl_logro,gimnasiocervantes.com/administrativo/funciones.php,1094
+SELECT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/administrativo/funciones.php,1103
+SELECT,tbl_calificacion_asignatura,gimnasiocervantes.com/administrativo/funciones.php,1109
+UPDATE,tbl_calificacion_asignatura_final,gimnasiocervantes.com/administrativo/funciones.php,1130
+INSERT,tbl_calificacion_asignatura_final,gimnasiocervantes.com/administrativo/funciones.php,1134
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/administrativo/funciones.php,1158
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/administrativo/funciones.php,1162
+UPDATE,tbl_calificacion_asignatura,gimnasiocervantes.com/administrativo/funciones.php,1186
+INSERT,tbl_calificacion_asignatura,gimnasiocervantes.com/administrativo/funciones.php,1190
+SELECT,tbl_puntaje_alumno,gimnasiocervantes.com/administrativo/funciones.php,1199
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/administrativo/funciones.php,1206
+INSERT,tbl_puntaje_alumno,gimnasiocervantes.com/administrativo/funciones.php,1209
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,1216
+SELECT,tbl_alumno,gimnasiocervantes.com/administrativo/funciones.php,1224
+UPDATE,tbl_puntaje_alumno,gimnasiocervantes.com/administrativo/funciones.php,1231
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/administrativo/funciones.php,1237
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/administrativo/funciones.php,1243
+UPDATE,tbl_desempenio_perdido,gimnasiocervantes.com/administrativo/funciones.php,1249
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/administrativo/funciones.php,1255
+SELECT,tbl_desempenio_perdido,gimnasiocervantes.com/administrativo/funciones.php,1261
+INSERT,tbl_desempenio_perdido,gimnasiocervantes.com/administrativo/funciones.php,1266
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1276
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1281
+SELECT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1287
+SELECT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1293
+SELECT,tbl_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1299
+INSERT,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1305
+INSERT,tbl_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1310
+INSERT,tbl_recomendacion_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1320
+INSERT,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1323
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1331
+DELETE,tbl_alumno_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1337
+DELETE,tbl_logro_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1341
+DELETE,tbl_alumno_recomendacion_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1349
+DELETE,tbl_recomendacion_caso_especial,gimnasiocervantes.com/administrativo/funciones.php,1353
+UPDATE,tbl_calificacion_logro,gimnasiocervantes.com/administrativo/funciones.php,1376
+INSERT,tbl_calificacion_logro,gimnasiocervantes.com/administrativo/funciones.php,1380
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1393
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1398
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1404
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1410
+SELECT,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1415
+INSERT,tbl_plan_alumno,gimnasiocervantes.com/administrativo/funciones.php,1421
+INSERT,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1430
+UPDATE,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1438
+DELETE,tbl_plan_entrenamiento,gimnasiocervantes.com/administrativo/funciones.php,1443
+DELETE,tbl_ejercicio,gimnasiocervantes.com/administrativo/funciones.php,1446
+SELECT,tbl_ejercicio,gimnasiocervantes.com/administrativo/funciones.php,1458
+INSERT,tbl_ejercicio,gimnasiocervantes.com/administrativo/funciones.php,1463
+INSERT,tbl_ejercicio,gimnasiocervantes.com/administrativo/funciones.php,1472
+UPDATE,tbl_ejercicio,gimnasiocervantes.com/administrativo/funciones.php,1481
+DELETE,tbl_ejercicio,gimnasiocervantes.com/administrativo/funciones.php,1486
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1496
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1503
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1510
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1517
+SELECT,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1524
+INSERT,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1531
+UPDATE,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1540
+DELETE,tbl_concepto_pago,gimnasiocervantes.com/administrativo/funciones.php,1547
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1561
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1576
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1591
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1598
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1605
+SELECT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1612
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1619
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1629
+INSERT,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1639
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1658
+UPDATE,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1674
+DELETE,tbl_concepto_pago_alumno,gimnasiocervantes.com/administrativo/funciones.php,1681
+INSERT,tbl_gasto,gimnasiocervantes.com/administrativo/funciones.php,1691
+SELECT,tbl_gasto,gimnasiocervantes.com/administrativo/funciones.php,1700
+INSERT,tbl_factura,gimnasiocervantes.com/administrativo/funciones.php,1709
+UPDATE,tbl_factura,gimnasiocervantes.com/administrativo/funciones.php,1715
+SELECT,tbl_factura,gimnasiocervantes.com/administrativo/funciones.php,1721
+SELECT,tbl_comunicado,gimnasiocervantes.com/administrativo/funciones.php,1731
+SELECT,tbl_comunicado_alumno,gimnasiocervantes.com/administrativo/funciones.php,1736
+SELECT,tbl_comunicado_admin,gimnasiocervantes.com/administrativo/funciones.php,1742
+SELECT,tbl_comunicado,gimnasiocervantes.com/administrativo/funciones.php,1748
+INSERT,tbl_comunicado,gimnasiocervantes.com/administrativo/funciones.php,1754
+INSERT,tbl_comunicado_alumno,gimnasiocervantes.com/administrativo/funciones.php,1762
+INSERT,tbl_comunicado_admin,gimnasiocervantes.com/administrativo/funciones.php,1771
+DELETE,tbl_comunicado,gimnasiocervantes.com/administrativo/funciones.php,1779
+DELETE,tbl_comunicado_alumno,gimnasiocervantes.com/administrativo/funciones.php,1782
+SELECT,tbl_recomendacion,gimnasiocervantes.com/administrativo/funciones.php,1794
+SELECT,tbl_recomendacion_alumno,gimnasiocervantes.com/administrativo/funciones.php,1799
+INSERT,tbl_recomendacion_alumno,gimnasiocervantes.com/administrativo/funciones.php,1805
+INSERT,tbl_recomendacion,gimnasiocervantes.com/administrativo/funciones.php,1811
+SELECT,tbl_estado_enlace,gimnasiocervantes.com/administrativo/funciones.php,1817
+UPDATE,tbl_promocion_alumno,gimnasiocervantes.com/administrativo/funciones.php,1829
+INSERT,tbl_promocion_alumno,gimnasiocervantes.com/administrativo/funciones.php,1833
+SELECT,tbl_promocion_alumno,gimnasiocervantes.com/administrativo/funciones.php,1841
+SELECT,tbl_consecutivo,gimnasiocervantes.com/administrativo/funciones.php,1850
+UPDATE,tbl_consecutivo,gimnasiocervantes.com/administrativo/funciones.php,1857

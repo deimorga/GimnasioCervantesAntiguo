@@ -1,0 +1,663 @@
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2551,col=0::Syntax error, unexpected ')' on line 2551
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2551,col=0::Syntax error, unexpected '{', expecting ')' on line 2551
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2672,col=0::Syntax error, unexpected '{', expecting ')' on line 2672
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2676,col=0::Syntax error, unexpected '{', expecting ')' on line 2676
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2764,col=0::Syntax error, unexpected '{' on line 2764
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2768,col=0::Syntax error, unexpected '{', expecting ')' on line 2768
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2780,col=0::Syntax error, unexpected ')' on line 2780
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=2780,col=0::Syntax error, unexpected '{' on line 2780
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=3034,col=0::Syntax error, unexpected '{' on line 3034
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php,line=3036,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 3036
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php,line=771,col=0::Syntax error, unexpected '{' on line 771
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php,line=812,col=0::Syntax error, unexpected '{' on line 812
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php,line=815,col=0::Syntax error, unexpected '{' on line 815
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php,line=818,col=0::Syntax error, unexpected '{' on line 818
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Engineering.php,line=821,col=0::Syntax error, unexpected '{' on line 821
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=162,col=0::Syntax error, unexpected '{' on line 162
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=184,col=0::Syntax error, unexpected ')' on line 184
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=184,col=0::Syntax error, unexpected '{' on line 184
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=185,col=0::Syntax error, unexpected ')' on line 185
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=185,col=0::Syntax error, unexpected '{' on line 185
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=185,col=0::Syntax error, unexpected '}' on line 185
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaParser.php,line=188,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 188
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Functions.php,line=321,col=0::Syntax error, unexpected '{', expecting ')' on line 321
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Functions.php,line=324,col=0::Syntax error, unexpected ')' on line 324
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Functions.php,line=324,col=0::Syntax error, unexpected '{', expecting ')' on line 324
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Functions.php,line=329,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 329
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Functions.php,line=339,col=0::Syntax error, unexpected '}', expecting EOF on line 339
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=43,col=0::Syntax error, unexpected '{', expecting ')' on line 43
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=44,col=0::Syntax error, unexpected '{', expecting ')' on line 44
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=45,col=0::Syntax error, unexpected '{', expecting ')' on line 45
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=46,col=0::Syntax error, unexpected '{', expecting ')' on line 46
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=47,col=0::Syntax error, unexpected '{', expecting ')' on line 47
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=48,col=0::Syntax error, unexpected '{', expecting ')' on line 48
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=49,col=0::Syntax error, unexpected '{', expecting ')' on line 49
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=50,col=0::Syntax error, unexpected '{', expecting ')' on line 50
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=51,col=0::Syntax error, unexpected '{', expecting ')' on line 51
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=52,col=0::Syntax error, unexpected '{', expecting ')' on line 52
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=53,col=0::Syntax error, unexpected '{', expecting ')' on line 53
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=54,col=0::Syntax error, unexpected '{', expecting ')' on line 54
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=55,col=0::Syntax error, unexpected '{', expecting ')' on line 55
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.php,line=60,col=0::Syntax error, unexpected '}', expecting EOF on line 60
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell.php,line=812,col=0::Syntax error, unexpected '{', expecting ')' on line 812
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell.php,line=813,col=0::Syntax error, unexpected '{', expecting ')' on line 813
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell.php,line=816,col=0::Syntax error, unexpected T_ELSEIF, expecting '}' on line 816
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell.php,line=817,col=0::Syntax error, unexpected '{', expecting ']' on line 817
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell.php,line=819,col=0::Syntax error, unexpected '}', expecting EOF on line 819
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=82,col=0::Syntax error, unexpected ')' on line 82
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=82,col=0::Syntax error, unexpected '{' on line 82
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=84,col=0::Syntax error, unexpected T_ELSEIF, expecting '}' on line 84
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=86,col=0::Syntax error, unexpected '{' on line 86
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=88,col=0::Syntax error, unexpected '{' on line 88
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=88,col=0::Syntax error, unexpected T_ELSEIF on line 88
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=90,col=0::Syntax error, unexpected '{' on line 90
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=92,col=0::Syntax error, unexpected '{' on line 92
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=92,col=0::Syntax error, unexpected T_ELSEIF, expecting '}' on line 92
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBinder.php,line=96,col=0::Syntax error, unexpected '}', expecting EOF on line 96
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel2003XML.php,line=692,col=0::Syntax error, unexpected '{' on line 692
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel2003XML.php,line=701,col=0::Syntax error, unexpected '{' on line 701
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=1928,col=0::Syntax error, unexpected '{', expecting ')' on line 1928
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=1991,col=0::Syntax error, unexpected '{', expecting ')' on line 1991
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2128,col=0::Syntax error, unexpected '{', expecting ')' on line 2128
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2153,col=0::Syntax error, unexpected '{', expecting ')' on line 2153
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2163,col=0::Syntax error, unexpected '{', expecting ')' on line 2163
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2181,col=0::Syntax error, unexpected '{', expecting ')' on line 2181
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2194,col=0::Syntax error, unexpected '{', expecting ')' on line 2194
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2198,col=0::Syntax error, unexpected '{', expecting ')' on line 2198
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2278,col=0::Syntax error, unexpected '{', expecting ')' on line 2278
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2402,col=0::Syntax error, unexpected '{', expecting ')' on line 2402
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2417,col=0::Syntax error, unexpected '{', expecting ')' on line 2417
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2432,col=0::Syntax error, unexpected '{', expecting ')' on line 2432
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2447,col=0::Syntax error, unexpected '{', expecting ')' on line 2447
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2462,col=0::Syntax error, unexpected '{', expecting ')' on line 2462
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2477,col=0::Syntax error, unexpected '{', expecting ')' on line 2477
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2492,col=0::Syntax error, unexpected '{', expecting ')' on line 2492
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2507,col=0::Syntax error, unexpected '{', expecting ')' on line 2507
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2549,col=0::Syntax error, unexpected '{', expecting ')' on line 2549
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2614,col=0::Syntax error, unexpected '{', expecting ')' on line 2614
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2618,col=0::Syntax error, unexpected T_CASE on line 2618
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2621,col=0::Syntax error, unexpected T_CASE on line 2621
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2624,col=0::Syntax error, unexpected T_DEFAULT on line 2624
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2630,col=0::Syntax error, unexpected '{', expecting ')' on line 2630
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2808,col=0::Syntax error, unexpected '{', expecting ')' on line 2808
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2891,col=0::Syntax error, unexpected '{', expecting ')' on line 2891
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2958,col=0::Syntax error, unexpected '{', expecting ')' on line 2958
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2980,col=0::Syntax error, unexpected '{' on line 2980
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=2980,col=0::Syntax error, unexpected '}' on line 2980
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3886,col=0::Syntax error, unexpected '{', expecting ')' on line 3886
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3909,col=0::Syntax error, unexpected '{', expecting ')' on line 3909
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3921,col=0::Syntax error, unexpected '{', expecting ')' on line 3921
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3921,col=0::Syntax error, unexpected T_ELSEIF, expecting '}' on line 3921
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3922,col=0::Syntax error, unexpected '{', expecting ')' on line 3922
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3923,col=0::Syntax error, unexpected '{', expecting ')' on line 3923
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3926,col=0::Syntax error, unexpected '{', expecting ')' on line 3926
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3928,col=0::Syntax error, unexpected '{', expecting ')' on line 3928
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3929,col=0::Syntax error, unexpected '{', expecting ')' on line 3929
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3932,col=0::Syntax error, unexpected '{', expecting ')' on line 3932
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3933,col=0::Syntax error, unexpected '{', expecting ')' on line 3933
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3934,col=0::Syntax error, unexpected '{', expecting ')' on line 3934
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3935,col=0::Syntax error, unexpected '{', expecting ')' on line 3935
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3939,col=0::Syntax error, unexpected T_ELSE on line 3939
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php,line=3975,col=0::Syntax error, unexpected '}', expecting EOF on line 3975
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php,line=283,col=0::Syntax error, unexpected '{', expecting ')' on line 283
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php,line=286,col=0::Syntax error, unexpected '{', expecting ')' on line 286
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php,line=289,col=0::Syntax error, unexpected '{', expecting ')' on line 289
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php,line=292,col=0::Syntax error, unexpected '{', expecting ')' on line 292
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php,line=334,col=0::Syntax error, unexpected '{', expecting ')' on line 334
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.php,line=375,col=0::Syntax error, unexpected '{', expecting ')' on line 375
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=164,col=0::Syntax error, unexpected '{' on line 164
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=169,col=0::Syntax error, unexpected T_CASE on line 169
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=252,col=0::Syntax error, unexpected '{' on line 252
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=256,col=0::Syntax error, unexpected T_CASE on line 256
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=260,col=0::Syntax error, unexpected T_CASE on line 260
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=263,col=0::Syntax error, unexpected T_CASE on line 263
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=266,col=0::Syntax error, unexpected '{' on line 266
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=270,col=0::Syntax error, unexpected T_CASE on line 270
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=273,col=0::Syntax error, unexpected T_CASE on line 273
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=276,col=0::Syntax error, unexpected T_CASE on line 276
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=279,col=0::Syntax error, unexpected T_CASE on line 279
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=282,col=0::Syntax error, unexpected T_CASE on line 282
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=296,col=0::Syntax error, unexpected '{' on line 296
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=301,col=0::Syntax error, unexpected T_CASE on line 301
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=305,col=0::Syntax error, unexpected T_CASE on line 305
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=308,col=0::Syntax error, unexpected T_CASE on line 308
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=330,col=0::Syntax error, unexpected '{' on line 330
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=339,col=0::Syntax error, unexpected '{' on line 339
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=369,col=0::Syntax error, unexpected '{' on line 369
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=374,col=0::Syntax error, unexpected T_CASE on line 374
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=378,col=0::Syntax error, unexpected T_CASE on line 378
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=381,col=0::Syntax error, unexpected T_CASE on line 381
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=384,col=0::Syntax error, unexpected T_CASE on line 384
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=387,col=0::Syntax error, unexpected '{' on line 387
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=391,col=0::Syntax error, unexpected T_CASE on line 391
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=394,col=0::Syntax error, unexpected T_CASE on line 394
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=397,col=0::Syntax error, unexpected T_CASE on line 397
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=400,col=0::Syntax error, unexpected T_CASE on line 400
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=403,col=0::Syntax error, unexpected T_CASE on line 403
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=436,col=0::Syntax error, unexpected '{' on line 436
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php,line=441,col=0::Syntax error, unexpected T_CASE on line 441
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,line=884,col=0::Syntax error, unexpected ')' on line 884
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,line=884,col=0::Syntax error, unexpected '{' on line 884
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,line=885,col=0::Syntax error, unexpected ')' on line 885
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php,line=885,col=0::Syntax error, unexpected '{' on line 885
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/OLE.php,line=446,col=0::Syntax error, unexpected '{' on line 446
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=526,col=0::Syntax error, unexpected '{', expecting ')' on line 526
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=527,col=0::Syntax error, unexpected '{', expecting ')' on line 527
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=538,col=0::Syntax error, unexpected '{', expecting ')' on line 538
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=539,col=0::Syntax error, unexpected '{', expecting ')' on line 539
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=539,col=0::Syntax error, unexpected '}' on line 539
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=541,col=0::Syntax error, unexpected '{', expecting ')' on line 541
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=541,col=0::Syntax error, unexpected '}' on line 541
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php,line=542,col=0::Syntax error, unexpected '{', expecting ')' on line 542
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/ZipStreamWrapper.php,line=79,col=0::Syntax error, unexpected '{' on line 79
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php,line=720,col=0::Syntax error, unexpected '{' on line 720
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php,line=736,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 736
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php,line=744,col=0::Syntax error, unexpected ':' on line 744
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php,line=744,col=0::Syntax error, unexpected T_CASE on line 744
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.php,line=807,col=0::Syntax error, unexpected '}', expecting EOF on line 807
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1023,col=0::Syntax error, unexpected '{', expecting ')' on line 1023
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1045,col=0::Syntax error, unexpected '{' on line 1045
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1050,col=0::Syntax error, unexpected '{' on line 1050
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1050,col=0::Syntax error, unexpected '}' on line 1050
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1056,col=0::Syntax error, unexpected '{' on line 1056
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1059,col=0::Syntax error, unexpected '{' on line 1059
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1059,col=0::Syntax error, unexpected '}' on line 1059
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1074,col=0::Syntax error, unexpected '{' on line 1074
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1074,col=0::Syntax error, unexpected '}' on line 1074
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.php,line=1175,col=0::Syntax error, unexpected '{', expecting ')' on line 1175
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php,line=667,col=0::Syntax error, unexpected '{' on line 667
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workbook.php,line=667,col=0::Syntax error, unexpected '{', expecting ')' on line 667
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php,line=879,col=0::Syntax error, unexpected '{' on line 879
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php,line=881,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 881
+::error file=gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Worksheet.php,line=913,col=0::Syntax error, unexpected '}', expecting EOF on line 913
+::error file=gimnasiocervantes.com/administrativo/cargar_plan_gestor.php,line=275,col=0::Syntax error, unexpected '}', expecting EOF on line 275
+::error file=gimnasiocervantes.com/aplicacion/admin_galeria.php,line=105,col=0::Syntax error, unexpected EOF on line 105
+::error file=gimnasiocervantes.com/aplicacion/admin_header.php,line=68,col=0::Syntax error, unexpected EOF on line 68
+::error file=gimnasiocervantes.com/aplicacion/admin_proyecto.php,line=92,col=0::Syntax error, unexpected EOF on line 92
+::error file=gimnasiocervantes.com/aplicacion/informacion.php,line=27,col=0::Syntax error, unexpected EOF on line 27
+::error file=gimnasiocervantes.com/cabecera.php,line=91,col=0::Syntax error, unexpected EOF on line 91
+::error file=gimnasiocervantes.com/cabecera_old_funcional.php,line=63,col=0::Syntax error, unexpected EOF on line 63
+::error file=gimnasiocervantes.com/header_galery/galeriaNivo.php,line=74,col=0::Syntax error, unexpected EOF on line 74
+::error file=gimnasiocervantes.com/instalaciones.php,line=61,col=0::Syntax error, unexpected EOF on line 61
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=582,col=0::Syntax error, unexpected '{', expecting ')' on line 582
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=585,col=0::Syntax error, unexpected '{', expecting ']' on line 585
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=595,col=0::Syntax error, unexpected '{', expecting ')' on line 595
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=606,col=0::Syntax error, unexpected '{' on line 606
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=635,col=0::Syntax error, unexpected '{', expecting ')' on line 635
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=649,col=0::Syntax error, unexpected '{', expecting ')' on line 649
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1019,col=0::Syntax error, unexpected '{', expecting ')' on line 1019
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1019,col=0::Syntax error, unexpected '}' on line 1019
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1227,col=0::Syntax error, unexpected '{', expecting ']' on line 1227
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1240,col=0::Syntax error, unexpected '{', expecting ']' on line 1240
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1283,col=0::Syntax error, unexpected '{' on line 1283
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1334,col=0::Syntax error, unexpected '{', expecting ']' on line 1334
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1767,col=0::Syntax error, unexpected '{', expecting ')' on line 1767
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php,line=1769,col=0::Syntax error, unexpected '{', expecting ')' on line 1769
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/gif.php,line=434,col=0::Syntax error, unexpected '{', expecting ')' on line 434
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=371,col=0::Syntax error, unexpected '{', expecting ')' on line 371
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=374,col=0::Syntax error, unexpected '{', expecting ')' on line 374
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=377,col=0::Syntax error, unexpected '{', expecting ')' on line 377
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=529,col=0::Syntax error, unexpected '{' on line 529
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=530,col=0::Syntax error, unexpected '{' on line 530
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=530,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 530
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=531,col=0::Syntax error, unexpected '{' on line 531
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=531,col=0::Syntax error, unexpected '{', expecting ')' on line 531
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=532,col=0::Syntax error, unexpected '{', expecting ')' on line 532
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=532,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 532
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=533,col=0::Syntax error, unexpected '{' on line 533
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=533,col=0::Syntax error, unexpected '{', expecting ')' on line 533
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=533,col=0::Syntax error, unexpected T_ELSE on line 533
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/grad.php,line=544,col=0::Syntax error, unexpected '}', expecting EOF on line 544
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1083,col=0::Syntax error, unexpected '{' on line 1083
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1083,col=0::Syntax error, unexpected '{', expecting ')' on line 1083
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1084,col=0::Syntax error, unexpected '{' on line 1084
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1084,col=0::Syntax error, unexpected '{', expecting ')' on line 1084
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1092,col=0::Syntax error, unexpected '{' on line 1092
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1092,col=0::Syntax error, unexpected '{', expecting ')' on line 1092
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1093,col=0::Syntax error, unexpected '{' on line 1093
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1093,col=0::Syntax error, unexpected '{', expecting ')' on line 1093
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1120,col=0::Syntax error, unexpected '{' on line 1120
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1120,col=0::Syntax error, unexpected '{', expecting ')' on line 1120
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1121,col=0::Syntax error, unexpected '{' on line 1121
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1121,col=0::Syntax error, unexpected '{', expecting ')' on line 1121
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1131,col=0::Syntax error, unexpected '{' on line 1131
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1131,col=0::Syntax error, unexpected '{', expecting ')' on line 1131
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1132,col=0::Syntax error, unexpected '{' on line 1132
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=1132,col=0::Syntax error, unexpected '{', expecting ')' on line 1132
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2424,col=0::Syntax error, unexpected '{' on line 2424
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2425,col=0::Syntax error, unexpected '{', expecting ')' on line 2425
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2428,col=0::Syntax error, unexpected '{' on line 2428
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2428,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 2428
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2429,col=0::Syntax error, unexpected '{', expecting ')' on line 2429
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2432,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 2432
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2433,col=0::Syntax error, unexpected '{', expecting ')' on line 2433
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2443,col=0::Syntax error, unexpected '{' on line 2443
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2444,col=0::Syntax error, unexpected '{', expecting ')' on line 2444
+::error file=gimnasiocervantes.com/pdf/MPDF56/classes/svg.php,line=2457,col=0::Syntax error, unexpected '}', expecting EOF on line 2457
+::error file=gimnasiocervantes.com/pdf/MPDF56/mpdf.php,line=1984,col=0::Syntax error, unexpected '{' on line 1984
+::error file=gimnasiocervantes.com/pdf/MPDF56/mpdf.php,line=1985,col=0::Syntax error, unexpected '{', expecting ')' on line 1985
+::error file=gimnasiocervantes.com/pdf/MPDF56/mpdf.php,line=1987,col=0::Syntax error, unexpected '{' on line 1987
+::error file=gimnasiocervantes.com/pdf/MPDF56/mpdf.php,line=1987,col=0::Syntax error, unexpected T_ELSE, expecting '}' on line 1987
+::error file=gimnasiocervantes.com/pdf/MPDF56/mpdf.php,line=1988,col=0::Syntax error, unexpected '{', expecting ')' on line 1988
+::error file=gimnasiocervantes.com/pdf/MPDF56/mpdf.php,line=1994,col=0::Syntax error, unexpected T_IF on line 1994
+ ------ ----------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation.php  
+ ------ ----------------------------------------------------------------- 
+  2551   Syntax error, unexpected ')' on line 2551                        
+  2551   Syntax error, unexpected '{', expecting ')' on line 2551         
+  2672   Syntax error, unexpected '{', expecting ')' on line 2672         
+  2676   Syntax error, unexpected '{', expecting ')' on line 2676         
+  2764   Syntax error, unexpected '{' on line 2764                        
+  2768   Syntax error, unexpected '{', expecting ')' on line 2768         
+  2780   Syntax error, unexpected ')' on line 2780                        
+  2780   Syntax error, unexpected '{' on line 2780                        
+  3034   Syntax error, unexpected '{' on line 3034                        
+  3036   Syntax error, unexpected T_ELSE, expecting '}' on line 3036      
+ ------ ----------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Engineeri  
+         ng.php                                                                 
+ ------ ----------------------------------------------------------------------- 
+  771    Syntax error, unexpected '{' on line 771                               
+  812    Syntax error, unexpected '{' on line 812                               
+  815    Syntax error, unexpected '{' on line 815                               
+  818    Syntax error, unexpected '{' on line 818                               
+  821    Syntax error, unexpected '{' on line 821                               
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/FormulaPa  
+         rser.php                                                               
+ ------ ----------------------------------------------------------------------- 
+  162    Syntax error, unexpected '{' on line 162                               
+  184    Syntax error, unexpected ')' on line 184                               
+  184    Syntax error, unexpected '{' on line 184                               
+  185    Syntax error, unexpected ')' on line 185                               
+  185    Syntax error, unexpected '{' on line 185                               
+  185    Syntax error, unexpected '}' on line 185                               
+  188    Syntax error, unexpected T_ELSE, expecting '}' on line 188             
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/Functions  
+         .php                                                                   
+ ------ ----------------------------------------------------------------------- 
+  321    Syntax error, unexpected '{', expecting ')' on line 321                
+  324    Syntax error, unexpected ')' on line 324                               
+  324    Syntax error, unexpected '{', expecting ')' on line 324                
+  329    Syntax error, unexpected T_ELSE, expecting '}' on line 329             
+  339    Syntax error, unexpected '}', expecting EOF on line 339                
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Calculation/TextData.  
+         php                                                                    
+ ------ ----------------------------------------------------------------------- 
+  43     Syntax error, unexpected '{', expecting ')' on line 43                 
+  44     Syntax error, unexpected '{', expecting ')' on line 44                 
+  45     Syntax error, unexpected '{', expecting ')' on line 45                 
+  46     Syntax error, unexpected '{', expecting ')' on line 46                 
+  47     Syntax error, unexpected '{', expecting ')' on line 47                 
+  48     Syntax error, unexpected '{', expecting ')' on line 48                 
+  49     Syntax error, unexpected '{', expecting ')' on line 49                 
+  50     Syntax error, unexpected '{', expecting ')' on line 50                 
+  51     Syntax error, unexpected '{', expecting ')' on line 51                 
+  52     Syntax error, unexpected '{', expecting ')' on line 52                 
+  53     Syntax error, unexpected '{', expecting ')' on line 53                 
+  54     Syntax error, unexpected '{', expecting ')' on line 54                 
+  55     Syntax error, unexpected '{', expecting ')' on line 55                 
+  60     Syntax error, unexpected '}', expecting EOF on line 60                 
+ ------ ----------------------------------------------------------------------- 
+
+ ------ -------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell.php      
+ ------ -------------------------------------------------------------- 
+  812    Syntax error, unexpected '{', expecting ')' on line 812       
+  813    Syntax error, unexpected '{', expecting ')' on line 813       
+  816    Syntax error, unexpected T_ELSEIF, expecting '}' on line 816  
+  817    Syntax error, unexpected '{', expecting ']' on line 817       
+  819    Syntax error, unexpected '}', expecting EOF on line 819       
+ ------ -------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Cell/DefaultValueBind  
+         er.php                                                                 
+ ------ ----------------------------------------------------------------------- 
+  82     Syntax error, unexpected ')' on line 82                                
+  82     Syntax error, unexpected '{' on line 82                                
+  84     Syntax error, unexpected T_ELSEIF, expecting '}' on line 84            
+  86     Syntax error, unexpected '{' on line 86                                
+  88     Syntax error, unexpected '{' on line 88                                
+  88     Syntax error, unexpected T_ELSEIF on line 88                           
+  90     Syntax error, unexpected '{' on line 90                                
+  92     Syntax error, unexpected '{' on line 92                                
+  92     Syntax error, unexpected T_ELSEIF, expecting '}' on line 92            
+  96     Syntax error, unexpected '}', expecting EOF on line 96                 
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel2003XML.p  
+         hp                                                                     
+ ------ ----------------------------------------------------------------------- 
+  692    Syntax error, unexpected '{' on line 692                               
+  701    Syntax error, unexpected '{' on line 701                               
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5.php  
+ ------ ------------------------------------------------------------------- 
+  1928   Syntax error, unexpected '{', expecting ')' on line 1928           
+  1991   Syntax error, unexpected '{', expecting ')' on line 1991           
+  2128   Syntax error, unexpected '{', expecting ')' on line 2128           
+  2153   Syntax error, unexpected '{', expecting ')' on line 2153           
+  2163   Syntax error, unexpected '{', expecting ')' on line 2163           
+  2181   Syntax error, unexpected '{', expecting ')' on line 2181           
+  2194   Syntax error, unexpected '{', expecting ')' on line 2194           
+  2198   Syntax error, unexpected '{', expecting ')' on line 2198           
+  2278   Syntax error, unexpected '{', expecting ')' on line 2278           
+  2402   Syntax error, unexpected '{', expecting ')' on line 2402           
+  2417   Syntax error, unexpected '{', expecting ')' on line 2417           
+  2432   Syntax error, unexpected '{', expecting ')' on line 2432           
+  2447   Syntax error, unexpected '{', expecting ')' on line 2447           
+  2462   Syntax error, unexpected '{', expecting ')' on line 2462           
+  2477   Syntax error, unexpected '{', expecting ')' on line 2477           
+  2492   Syntax error, unexpected '{', expecting ')' on line 2492           
+  2507   Syntax error, unexpected '{', expecting ')' on line 2507           
+  2549   Syntax error, unexpected '{', expecting ')' on line 2549           
+  2614   Syntax error, unexpected '{', expecting ')' on line 2614           
+  2618   Syntax error, unexpected T_CASE on line 2618                       
+  2621   Syntax error, unexpected T_CASE on line 2621                       
+  2624   Syntax error, unexpected T_DEFAULT on line 2624                    
+  2630   Syntax error, unexpected '{', expecting ')' on line 2630           
+  2808   Syntax error, unexpected '{', expecting ')' on line 2808           
+  2891   Syntax error, unexpected '{', expecting ')' on line 2891           
+  2958   Syntax error, unexpected '{', expecting ')' on line 2958           
+  2980   Syntax error, unexpected '{' on line 2980                          
+  2980   Syntax error, unexpected '}' on line 2980                          
+  3886   Syntax error, unexpected '{', expecting ')' on line 3886           
+  3909   Syntax error, unexpected '{', expecting ')' on line 3909           
+  3921   Syntax error, unexpected '{', expecting ')' on line 3921           
+  3921   Syntax error, unexpected T_ELSEIF, expecting '}' on line 3921      
+  3922   Syntax error, unexpected '{', expecting ')' on line 3922           
+  3923   Syntax error, unexpected '{', expecting ')' on line 3923           
+  3926   Syntax error, unexpected '{', expecting ')' on line 3926           
+  3928   Syntax error, unexpected '{', expecting ')' on line 3928           
+  3929   Syntax error, unexpected '{', expecting ')' on line 3929           
+  3932   Syntax error, unexpected '{', expecting ')' on line 3932           
+  3933   Syntax error, unexpected '{', expecting ')' on line 3933           
+  3934   Syntax error, unexpected '{', expecting ')' on line 3934           
+  3935   Syntax error, unexpected '{', expecting ')' on line 3935           
+  3939   Syntax error, unexpected T_ELSE on line 3939                       
+  3975   Syntax error, unexpected '}', expecting EOF on line 3975           
+ ------ ------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/Excel5/Escher.  
+         php                                                                    
+ ------ ----------------------------------------------------------------------- 
+  283    Syntax error, unexpected '{', expecting ')' on line 283                
+  286    Syntax error, unexpected '{', expecting ')' on line 286                
+  289    Syntax error, unexpected '{', expecting ')' on line 289                
+  292    Syntax error, unexpected '{', expecting ')' on line 292                
+  334    Syntax error, unexpected '{', expecting ')' on line 334                
+  375    Syntax error, unexpected '{', expecting ')' on line 375                
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Reader/SYLK.php  
+ ------ ----------------------------------------------------------------- 
+  164    Syntax error, unexpected '{' on line 164                         
+  169    Syntax error, unexpected T_CASE on line 169                      
+  252    Syntax error, unexpected '{' on line 252                         
+  256    Syntax error, unexpected T_CASE on line 256                      
+  260    Syntax error, unexpected T_CASE on line 260                      
+  263    Syntax error, unexpected T_CASE on line 263                      
+  266    Syntax error, unexpected '{' on line 266                         
+  270    Syntax error, unexpected T_CASE on line 270                      
+  273    Syntax error, unexpected T_CASE on line 273                      
+  276    Syntax error, unexpected T_CASE on line 276                      
+  279    Syntax error, unexpected T_CASE on line 279                      
+  282    Syntax error, unexpected T_CASE on line 282                      
+  296    Syntax error, unexpected '{' on line 296                         
+  301    Syntax error, unexpected T_CASE on line 301                      
+  305    Syntax error, unexpected T_CASE on line 305                      
+  308    Syntax error, unexpected T_CASE on line 308                      
+  330    Syntax error, unexpected '{' on line 330                         
+  339    Syntax error, unexpected '{' on line 339                         
+  369    Syntax error, unexpected '{' on line 369                         
+  374    Syntax error, unexpected T_CASE on line 374                      
+  378    Syntax error, unexpected T_CASE on line 378                      
+  381    Syntax error, unexpected T_CASE on line 381                      
+  384    Syntax error, unexpected T_CASE on line 384                      
+  387    Syntax error, unexpected '{' on line 387                         
+  391    Syntax error, unexpected T_CASE on line 391                      
+  394    Syntax error, unexpected T_CASE on line 394                      
+  397    Syntax error, unexpected T_CASE on line 397                      
+  400    Syntax error, unexpected T_CASE on line 400                      
+  403    Syntax error, unexpected T_CASE on line 403                      
+  436    Syntax error, unexpected '{' on line 436                         
+  441    Syntax error, unexpected T_CASE on line 441                      
+ ------ ----------------------------------------------------------------- 
+
+ ------ --------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/ReferenceHelper.php  
+ ------ --------------------------------------------------------------------- 
+  884    Syntax error, unexpected ')' on line 884                             
+  884    Syntax error, unexpected '{' on line 884                             
+  885    Syntax error, unexpected ')' on line 885                             
+  885    Syntax error, unexpected '{' on line 885                             
+ ------ --------------------------------------------------------------------- 
+
+ ------ ---------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/OLE.php  
+ ------ ---------------------------------------------------------------- 
+  446    Syntax error, unexpected '{' on line 446                        
+ ------ ---------------------------------------------------------------- 
+
+ ------ ------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/String.php  
+ ------ ------------------------------------------------------------------- 
+  526    Syntax error, unexpected '{', expecting ')' on line 526            
+  527    Syntax error, unexpected '{', expecting ')' on line 527            
+  538    Syntax error, unexpected '{', expecting ')' on line 538            
+  539    Syntax error, unexpected '{', expecting ')' on line 539            
+  539    Syntax error, unexpected '}' on line 539                           
+  541    Syntax error, unexpected '{', expecting ')' on line 541            
+  541    Syntax error, unexpected '}' on line 541                           
+  542    Syntax error, unexpected '{', expecting ')' on line 542            
+ ------ ------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Shared/ZipStreamWrapp  
+         er.php                                                                 
+ ------ ----------------------------------------------------------------------- 
+  79     Syntax error, unexpected '{' on line 79                                
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Worksheet/AutoFilter.  
+         php                                                                    
+ ------ ----------------------------------------------------------------------- 
+  720    Syntax error, unexpected '{' on line 720                               
+  736    Syntax error, unexpected T_ELSE, expecting '}' on line 736             
+  744    Syntax error, unexpected ':' on line 744                               
+  744    Syntax error, unexpected T_CASE on line 744                            
+  807    Syntax error, unexpected '}', expecting EOF on line 807                
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Parser.  
+         php                                                                    
+ ------ ----------------------------------------------------------------------- 
+  1023   Syntax error, unexpected '{', expecting ')' on line 1023               
+  1045   Syntax error, unexpected '{' on line 1045                              
+  1050   Syntax error, unexpected '{' on line 1050                              
+  1050   Syntax error, unexpected '}' on line 1050                              
+  1056   Syntax error, unexpected '{' on line 1056                              
+  1059   Syntax error, unexpected '{' on line 1059                              
+  1059   Syntax error, unexpected '}' on line 1059                              
+  1074   Syntax error, unexpected '{' on line 1074                              
+  1074   Syntax error, unexpected '}' on line 1074                              
+  1175   Syntax error, unexpected '{', expecting ')' on line 1175               
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workboo  
+         k.php                                                                  
+ ------ ----------------------------------------------------------------------- 
+  667    Syntax error, unexpected '{' on line 667                               
+  667    Syntax error, unexpected '{', expecting ')' on line 667                
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ----------------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/PHPExcel/Classes/PHPExcel/Writer/Excel5/Workshe  
+         et.php                                                                 
+ ------ ----------------------------------------------------------------------- 
+  879    Syntax error, unexpected '{' on line 879                               
+  881    Syntax error, unexpected T_ELSE, expecting '}' on line 881             
+  913    Syntax error, unexpected '}', expecting EOF on line 913                
+ ------ ----------------------------------------------------------------------- 
+
+ ------ ------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/administrativo/cargar_plan_gestor.php  
+ ------ ------------------------------------------------------------- 
+  275    Syntax error, unexpected '}', expecting EOF on line 275      
+ ------ ------------------------------------------------------------- 
+
+ ------ ---------------------------------------------------- 
+  Line   gimnasiocervantes.com/aplicacion/admin_galeria.php  
+ ------ ---------------------------------------------------- 
+  105    Syntax error, unexpected EOF on line 105            
+ ------ ---------------------------------------------------- 
+
+ ------ --------------------------------------------------- 
+  Line   gimnasiocervantes.com/aplicacion/admin_header.php  
+ ------ --------------------------------------------------- 
+  68     Syntax error, unexpected EOF on line 68            
+ ------ --------------------------------------------------- 
+
+ ------ ----------------------------------------------------- 
+  Line   gimnasiocervantes.com/aplicacion/admin_proyecto.php  
+ ------ ----------------------------------------------------- 
+  92     Syntax error, unexpected EOF on line 92              
+ ------ ----------------------------------------------------- 
+
+ ------ -------------------------------------------------- 
+  Line   gimnasiocervantes.com/aplicacion/informacion.php  
+ ------ -------------------------------------------------- 
+  27     Syntax error, unexpected EOF on line 27           
+ ------ -------------------------------------------------- 
+
+ ------ ----------------------------------------- 
+  Line   gimnasiocervantes.com/cabecera.php       
+ ------ ----------------------------------------- 
+  91     Syntax error, unexpected EOF on line 91  
+ ------ ----------------------------------------- 
+
+ ------ -------------------------------------------------- 
+  Line   gimnasiocervantes.com/cabecera_old_funcional.php  
+ ------ -------------------------------------------------- 
+  63     Syntax error, unexpected EOF on line 63           
+ ------ -------------------------------------------------- 
+
+ ------ ----------------------------------------------------- 
+  Line   gimnasiocervantes.com/header_galery/galeriaNivo.php  
+ ------ ----------------------------------------------------- 
+  74     Syntax error, unexpected EOF on line 74              
+ ------ ----------------------------------------------------- 
+
+ ------ ----------------------------------------- 
+  Line   gimnasiocervantes.com/instalaciones.php  
+ ------ ----------------------------------------- 
+  61     Syntax error, unexpected EOF on line 61  
+ ------ ----------------------------------------- 
+
+ ------ ---------------------------------------------------------- 
+  Line   gimnasiocervantes.com/pdf/MPDF56/classes/barcode.php      
+ ------ ---------------------------------------------------------- 
+  582    Syntax error, unexpected '{', expecting ')' on line 582   
+  585    Syntax error, unexpected '{', expecting ']' on line 585   
+  595    Syntax error, unexpected '{', expecting ')' on line 595   
+  606    Syntax error, unexpected '{' on line 606                  
+  635    Syntax error, unexpected '{', expecting ')' on line 635   
+  649    Syntax error, unexpected '{', expecting ')' on line 649   
+  1019   Syntax error, unexpected '{', expecting ')' on line 1019  
+  1019   Syntax error, unexpected '}' on line 1019                 
+  1227   Syntax error, unexpected '{', expecting ']' on line 1227  
+  1240   Syntax error, unexpected '{', expecting ']' on line 1240  
+  1283   Syntax error, unexpected '{' on line 1283                 
+  1334   Syntax error, unexpected '{', expecting ']' on line 1334  
+  1767   Syntax error, unexpected '{', expecting ')' on line 1767  
+  1769   Syntax error, unexpected '{', expecting ')' on line 1769  
+ ------ ---------------------------------------------------------- 
+
+ ------ --------------------------------------------------------- 
+  Line   gimnasiocervantes.com/pdf/MPDF56/classes/gif.php         
+ ------ --------------------------------------------------------- 
+  434    Syntax error, unexpected '{', expecting ')' on line 434  
+ ------ --------------------------------------------------------- 
+
+ ------ ------------------------------------------------------------ 
+  Line   gimnasiocervantes.com/pdf/MPDF56/classes/grad.php           
+ ------ ------------------------------------------------------------ 
+  371    Syntax error, unexpected '{', expecting ')' on line 371     
+  374    Syntax error, unexpected '{', expecting ')' on line 374     
+  377    Syntax error, unexpected '{', expecting ')' on line 377     
+  529    Syntax error, unexpected '{' on line 529                    
+  530    Syntax error, unexpected '{' on line 530                    
+  530    Syntax error, unexpected T_ELSE, expecting '}' on line 530  
+  531    Syntax error, unexpected '{' on line 531                    
+  531    Syntax error, unexpected '{', expecting ')' on line 531     
+  532    Syntax error, unexpected '{', expecting ')' on line 532     
+  532    Syntax error, unexpected T_ELSE, expecting '}' on line 532  
+  533    Syntax error, unexpected '{' on line 533                    
+  533    Syntax error, unexpected '{', expecting ')' on line 533     
+  533    Syntax error, unexpected T_ELSE on line 533                 
+  544    Syntax error, unexpected '}', expecting EOF on line 544     
+ ------ ------------------------------------------------------------ 
+
+ ------ ------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/pdf/MPDF56/classes/svg.php             
+ ------ ------------------------------------------------------------- 
+  1083   Syntax error, unexpected '{' on line 1083                    
+  1083   Syntax error, unexpected '{', expecting ')' on line 1083     
+  1084   Syntax error, unexpected '{' on line 1084                    
+  1084   Syntax error, unexpected '{', expecting ')' on line 1084     
+  1092   Syntax error, unexpected '{' on line 1092                    
+  1092   Syntax error, unexpected '{', expecting ')' on line 1092     
+  1093   Syntax error, unexpected '{' on line 1093                    
+  1093   Syntax error, unexpected '{', expecting ')' on line 1093     
+  1120   Syntax error, unexpected '{' on line 1120                    
+  1120   Syntax error, unexpected '{', expecting ')' on line 1120     
+  1121   Syntax error, unexpected '{' on line 1121                    
+  1121   Syntax error, unexpected '{', expecting ')' on line 1121     
+  1131   Syntax error, unexpected '{' on line 1131                    
+  1131   Syntax error, unexpected '{', expecting ')' on line 1131     
+  1132   Syntax error, unexpected '{' on line 1132                    
+  1132   Syntax error, unexpected '{', expecting ')' on line 1132     
+  2424   Syntax error, unexpected '{' on line 2424                    
+  2425   Syntax error, unexpected '{', expecting ')' on line 2425     
+  2428   Syntax error, unexpected '{' on line 2428                    
+  2428   Syntax error, unexpected T_ELSE, expecting '}' on line 2428  
+  2429   Syntax error, unexpected '{', expecting ')' on line 2429     
+  2432   Syntax error, unexpected T_ELSE, expecting '}' on line 2432  
+  2433   Syntax error, unexpected '{', expecting ')' on line 2433     
+  2443   Syntax error, unexpected '{' on line 2443                    
+  2444   Syntax error, unexpected '{', expecting ')' on line 2444     
+  2457   Syntax error, unexpected '}', expecting EOF on line 2457     
+ ------ ------------------------------------------------------------- 
+
+ ------ ------------------------------------------------------------- 
+  Line   gimnasiocervantes.com/pdf/MPDF56/mpdf.php                    
+ ------ ------------------------------------------------------------- 
+  1984   Syntax error, unexpected '{' on line 1984                    
+  1985   Syntax error, unexpected '{', expecting ')' on line 1985     
+  1987   Syntax error, unexpected '{' on line 1987                    
+  1987   Syntax error, unexpected T_ELSE, expecting '}' on line 1987  
+  1988   Syntax error, unexpected '{', expecting ')' on line 1988     
+  1994   Syntax error, unexpected T_IF on line 1994                   
+ ------ ------------------------------------------------------------- 
+
+ [ERROR] Found 242 errors                                                       
+
