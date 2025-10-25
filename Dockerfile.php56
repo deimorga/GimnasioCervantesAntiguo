@@ -1,0 +1,16 @@
+FROM php:5.6-apache
+
+# Extensiones necesarias habituales en proyectos PHP 2013–2017
+RUN apt-get update && apt-get install -y \
+        libpng-dev libjpeg-dev libfreetype6-dev libzip-dev zlib1g-dev \
+        libmcrypt-dev libonig-dev unzip git && \
+    docker-php-ext-configure gd --with-freetype-dir=/usr/include/ --with-jpeg-dir=/usr/include/ && \
+    docker-php-ext-install gd mysqli mbstring zip && \
+    a2enmod rewrite && \
+    rm -rf /var/lib/apt/lists/*
+
+# VHost para permitir .htaccess y DocumentRoot en subcarpeta
+COPY ./config/apache/vhost.conf /etc/apache2/sites-available/000-default.conf
+
+# php.ini básico
+COPY ./config/php/php.ini /usr/local/etc/php/php.ini

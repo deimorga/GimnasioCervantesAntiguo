@@ -40,3 +40,4 @@
 
 
 > Inserta el contenido de `erd_mermaid.md` en un README de GitHub para ver el diagrama renderizado.
+```

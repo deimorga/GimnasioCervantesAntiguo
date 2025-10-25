@@ -5,3 +5,7 @@
 *.rar
 .DS_Store
 **/._*
+
+# Local DB reports
+DB_REPORT/
+DB_REPORT.zip

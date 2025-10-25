@@ -1,0 +1,44 @@
+version: "3.9"
+services:
+  mysql57:
+    image: mysql:5.7
+    container_name: cole_mysql57
+    environment:
+      MYSQL_DATABASE: colegios
+      MYSQL_USER: app
+      MYSQL_PASSWORD: app123
+      MYSQL_ROOT_PASSWORD: root123
+      TZ: America/Bogota
+    ports:
+      - "3306:3306"
+    volumes:
+      - dbdata:/var/lib/mysql
+      - ./BD:/dump:ro
+
+  php56:
+    build:
+      context: .
+      dockerfile: Dockerfile.php56
+    container_name: cole_php56
+    depends_on:
+      - mysql57
+    environment:
+      APACHE_DOCUMENT_ROOT: /var/www/html/gimnasiocervantes.com
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html:cached
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:5
+    depends_on:
+      - mysql57
+    environment:
+      PMA_HOST: mysql57
+      PMA_USER: root
+      PMA_PASSWORD: root123
+    ports:
+      - "8081:80"
+
+volumes:
+  dbdata:
