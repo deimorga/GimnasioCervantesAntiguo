@@ -4,6 +4,17 @@
 
 ---
 
+## Tabla de contenido
+- [📁 Estructura principal](#estructura-principal)
+- [📚 Documentación (leer primero)](#documentacion)
+- [▶️ Cómo ejecutar la auditoría A+B](#auditoria)
+- [🧭 Hallazgos rápidos (resumen)](#hallazgos)
+- [🚀 Próximos pasos sugeridos](#proximos-pasos)
+- [ℹ️ Nota](#nota)
+
+---
+
+<a id="estructura-principal"></a>
 ## 📁 Estructura principal
 
 - `gimnasiocervantes.com/` → código PHP legado (sitio y módulos).
@@ -13,6 +24,7 @@
 
 ---
 
+<a id="documentacion"></a>
 ## 📚 Documentación (leer primero)
 
 - **Análisis funcional (5 puntos)**: [Docs/analisis_funcional.md](Docs/analisis_funcional.md)  
@@ -32,6 +44,7 @@
 
 ---
 
+<a id="auditoria"></a>
 ## ▶️ Cómo ejecutar la **auditoría A+B** (GitHub Actions)
 
 1. Ir a la pestaña **Actions** del repo.
@@ -47,6 +60,7 @@
 
 ---
 
+<a id="hallazgos"></a>
 ## 🧭 Hallazgos rápidos (resumen)
 
 - Uso de **`mysql_*` y `mysqli_*`** (sin PDO) → riesgo de inyección / dificultad de migración.
@@ -57,6 +71,7 @@
 
 ---
 
+<a id="proximos-pasos"></a>
 ## 🚀 Próximos pasos sugeridos
 
 1. **Entorno reproducible** del legado (Docker/compose con PHP + MySQL compatible).
@@ -67,6 +82,7 @@
 
 ---
 
+<a id="nota"></a>
 ## ℹ️ Nota
 
 Este README resume el estado del **código legado** y enlaza a la evidencia del **análisis 2025**. La modernización (stack, arquitectura y plan SaaS) vive en los documentos bajo `Docs/` y se irá actualizando en sprints.
